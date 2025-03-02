@@ -1,0 +1,4381 @@
+[
+    {
+        "code": {
+            "departmental": "ARCH426",
+            "numeric": "1200426",
+            "matched_by": "code"
+        },
+        "name": "ARCH426 - HOUSE AND DAILY LIFE IN HISTORY (TARİHTE KONUT VE GÜNLÜK YAŞAM KÜLTÜRÜ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "13:40",
+                        "end": "16:30",
+                        "room": "R89"
+                    }
+                ],
+                "instructors": [
+                    "ÖZGENEL LALE",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ARCH440",
+            "numeric": "1200440",
+            "matched_by": "code"
+        },
+        "name": "ARCH440 - MASTERWORKS OF MEDIEVAL ARCHITECTURE IN EAST AND WEST (ORTA ÇAĞ' DA DOĞU' DA VE BATI' DA MİMARİ BAŞYAPITLAR)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Wednesday",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "R47"
+                    }
+                ],
+                "instructors": [
+                    "PEKER ALİ UZAY",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ID417",
+            "numeric": "1250417",
+            "matched_by": "code"
+        },
+        "name": "ID417 - VIDEO GAME DESIGN AND DEVELOPMENT (VİDEO OYUN TASARIMI VE GELİŞTİRİLMESİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "13:40",
+                        "end": "17:30",
+                        "room": "MimBilLab"
+                    }
+                ],
+                "instructors": [
+                    "HASDOĞAN DORUK",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ID424",
+            "numeric": "1250424",
+            "matched_by": "code"
+        },
+        "name": "ID424 - INTELLECTUAL PROPERTY RIGHTS (FIKRI MULKIYET HAKLARI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "R-45"
+                    }
+                ],
+                "instructors": [
+                    "BEKTAŞ SALİH",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ID489",
+            "numeric": "1250489",
+            "matched_by": "code"
+        },
+        "name": "ID489 - DESIGN AND CINEMA (TASARIM VE SINEMA)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Friday",
+                        "start": "13:40",
+                        "end": "16:30",
+                        "room": "R48"
+                    }
+                ],
+                "instructors": [
+                    "IŞIK FİGEN",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ID305",
+            "numeric": "1250305",
+            "matched_by": "code"
+        },
+        "name": "ID305 - DESIGN PRESENTATION I (TASARIMDA SUNUM I)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "13:40",
+                        "end": "17:30",
+                        "room": "R-45"
+                    }
+                ],
+                "instructors": [
+                    "GÖZELSOY ATABERK",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PHYS360",
+            "numeric": "2300360",
+            "matched_by": "code"
+        },
+        "name": "PHYS360 - SCIENCE IN HISTORY (TARİHTE BİLİM)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "14:40",
+                        "end": "17:30",
+                        "room": "P-421"
+                    }
+                ],
+                "instructors": [
+                    "ZEYREK MEHMET TEVFİK",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PSY1010",
+            "numeric": "2331010",
+            "matched_by": "code"
+        },
+        "name": "PSY1010 - GENERAL PSYCHOLOGY (GENEL PSİKOLOJİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Thursday",
+                        "start": "14:40",
+                        "end": "17:30",
+                        "room": "YP-A1"
+                    }
+                ],
+                "instructors": [
+                    "SUATA ZEYNEP MÜBERRA",
+                    "STAFF"
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "Friday",
+                        "start": "12:40",
+                        "end": "15:30",
+                        "room": "U1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PSY1410",
+            "numeric": "2331410",
+            "matched_by": "code"
+        },
+        "name": "PSY1410 - UNDERSTANDING SOCIAL BEHAVIOR (SOSYAL DAVRANIŞLAR)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Friday",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "B14"
+                    }
+                ],
+                "instructors": [
+                    "ÖNER ÖZKAN BENGİ",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST311",
+            "numeric": "2400311",
+            "matched_by": "code"
+        },
+        "name": "HIST311 - THE BEGINNINGS: FROM PALAEOLITHIC TO NEOLITHIC SOCIETIES  OF THE LEVANT (BAŞLANGIÇLAR: LEVANT'IN PALAEOLİTİKTEN NEOLİTİK TOPLULUKLARINA)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Thursday",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "YP-D102"
+                    }
+                ],
+                "instructors": [
+                    "PİŞKİN EVANGELİA",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST303",
+            "numeric": "2400303",
+            "matched_by": "code"
+        },
+        "name": "HIST303 - EUROPEAN HISTORY III (AVRUPA TARİHİ III)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "13:40",
+                        "end": "16:30",
+                        "room": "B05"
+                    }
+                ],
+                "instructors": [
+                    "GÜRSEL BAHAR",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST252",
+            "numeric": "2400252",
+            "matched_by": "code"
+        },
+        "name": "HIST252 - HISTORICAL READINGS IN GREEK II (YUNANCA TARİH OKUMALARI II)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Wednesday",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "YP-B202"
+                    }
+                ],
+                "instructors": [
+                    "DİETRİCH RİCHARD",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST547",
+            "numeric": "2400547",
+            "matched_by": "code"
+        },
+        "name": "HIST547 - READINGS IN AMERICAN CULTURE (AMERİKAN KÜLTÜRÜ OKUMALARI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "13:40",
+                        "end": "16:30",
+                        "room": "B04"
+                    }
+                ],
+                "instructors": [
+                    "GÜRSEL BAHAR",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST434",
+            "numeric": "2400434",
+            "matched_by": "code"
+        },
+        "name": "HIST434 - MAJOR ISSUES IN THE HISTORY OF CONTEMPORARY TURKEY (ÇAĞDAŞ TÜRKİYE TARİHİNDE TEMEL KONULAR)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Wednesday",
+                        "start": "11:40",
+                        "end": "14:30",
+                        "room": "B206"
+                    }
+                ],
+                "instructors": [
+                    "ŞEKER NESİM",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST229",
+            "numeric": "2400229",
+            "matched_by": "code"
+        },
+        "name": "HIST229 - EARLY ANATOLIAN CIVILIZATIONS (ERKEN ANADOLU MEDENİYETLERİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Friday",
+                        "start": "13:40",
+                        "end": "16:30",
+                        "room": "G202"
+                    }
+                ],
+                "instructors": [
+                    "GÜNEY HALE",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST437",
+            "numeric": "2400437",
+            "matched_by": "code"
+        },
+        "name": "HIST437 - OTTOMAN WOMEN IN HISTORICAL PERSPECTIVE (1500-1922 C.) (TARİHSEL BAKIŞ AÇISINDAN OSMANLI KADINLARI (1500-1922))",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Wednesday",
+                        "start": "13:40",
+                        "end": "16:30",
+                        "room": "B08"
+                    }
+                ],
+                "instructors": [
+                    "ÇELİK BİRTEN",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST218",
+            "numeric": "2400218",
+            "matched_by": "code"
+        },
+        "name": "HIST218 - BYZANTINE HISTORY II (BİZANS TARİHİ II)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "YP-D202"
+                    }
+                ],
+                "instructors": [
+                    "DİETRİCH RİCHARD",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST112",
+            "numeric": "2400112",
+            "matched_by": "code"
+        },
+        "name": "HIST112 - HISTORY OF TURKS II (TÜRK TARİHİ II)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Thursday",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "B08"
+                    }
+                ],
+                "instructors": [
+                    "YÜKSEL MUSA ŞAMİL",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST570",
+            "numeric": "2400570",
+            "matched_by": "code"
+        },
+        "name": "HIST570 - OTTOMAN URBAN HISTORY (OSMANLI KENT TARİHİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "10:40",
+                        "end": "13:30",
+                        "room": "B206"
+                    }
+                ],
+                "instructors": [
+                    "TÜLÜVELİ GÜÇLÜ",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST474",
+            "numeric": "2400474",
+            "matched_by": "code"
+        },
+        "name": "HIST474 - HISTORY OF AVIATION (HAVACILIK TARİHİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Thursday",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "AE024"
+                    }
+                ],
+                "instructors": [
+                    "YILMAZER İBRAHİM BÜLENT",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST563",
+            "numeric": "2400563",
+            "matched_by": "code"
+        },
+        "name": "HIST563 - EMERGENCE AND EVOLUTION OF ARMENIAN QUESTION (ERMENİ SORUNUN ORTAYA ÇIKIŞI VE EVRİMİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Thursday",
+                        "start": "08:40",
+                        "end": "11:30",
+                        "room": "B04"
+                    }
+                ],
+                "instructors": [
+                    "TULUN TEOMAN ERTUĞRUL",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST578",
+            "numeric": "2400578",
+            "matched_by": "code"
+        },
+        "name": "HIST578 - THE MAKING OF CONTEMPORARY TURKEY (ÇAĞDAŞ TÜRKİYE'NİN İNŞASI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Thursday",
+                        "start": "11:40",
+                        "end": "14:30",
+                        "room": "B04"
+                    }
+                ],
+                "instructors": [
+                    "ŞEKER NESİM",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PHIL390",
+            "numeric": "2410390",
+            "matched_by": "code"
+        },
+        "name": "PHIL390 - RATIONALITY THEORIES OF SCIENCE (BİLİM RASYONALİTE KURAMLARI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "10:40",
+                        "end": "13:30",
+                        "room": "M06"
+                    }
+                ],
+                "instructors": [
+                    "BAĞÇE SAMET",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PHIL351",
+            "numeric": "2410351",
+            "matched_by": "code"
+        },
+        "name": "PHIL351 - APPLIED ETHICS (UYGULAMALI ETİK)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Thursday",
+                        "start": "10:40",
+                        "end": "13:30",
+                        "room": "B07"
+                    }
+                ],
+                "instructors": [
+                    "PARKAN BARIŞ",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PHIL205",
+            "numeric": "2410205",
+            "matched_by": "code"
+        },
+        "name": "PHIL205 - BASIC PHILOSOPHY OF SCIENCE (BİLİM FELSEFESİNE GİRİŞ)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "B07"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "13:40",
+                        "end": "15:30",
+                        "room": "B07"
+                    }
+                ],
+                "instructors": [
+                    "SOL AYHAN",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PHIL365",
+            "numeric": "2410365",
+            "matched_by": "code"
+        },
+        "name": "PHIL365 - FEMINIST PHILOSOPHY (FEMİNİST FELSEFE)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Wednesday",
+                        "start": "13:40",
+                        "end": "16:30",
+                        "room": "B07"
+                    }
+                ],
+                "instructors": [
+                    "İBRAHİMHAKKIOĞLU FULDEN",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ADM4344",
+            "numeric": "3104344",
+            "matched_by": "code"
+        },
+        "name": "ADM4344 - LABOUR MARKET ISSUES IN TURKEY (TÜRKİYEDE İŞGÜCÜ PİYASASI KONULARI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "13:40",
+                        "end": "16:30",
+                        "room": "F14"
+                    }
+                ],
+                "instructors": [
+                    "GÖKSEL ASUMAN",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ADM1324",
+            "numeric": "3101324",
+            "matched_by": "code"
+        },
+        "name": "ADM1324 - HISTORY OF CIVILIZATIONS (UYGARLIK TARİHİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "F16"
+                    }
+                ],
+                "instructors": [
+                    "ERDEM DENİZ",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ECON210",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "ECON210 - PRINCIPLES OF ECONOMICS (GİRİŞ İKTİSADI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Friday",
+                        "start": "14:40",
+                        "end": "17:30",
+                        "room": ""
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "BA4216",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "BA4216 - CROSS CULTURAL STUDIES IN ORGANIZATIONS (Örgütlerde Kültürlerarası Çalışmalar)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "G109"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "G109"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "BA4821",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "BA4821 - BANK MANAGEMENT (Banka Yönetimi)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "G107"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "G107"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "BA4616",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "BA4616 - SERVICES MANAGEMENT (Hizmet Yönetimi)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": "G109"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": "G109"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "BA4618",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "BA4618 - PROJECT MANAGEMENT (Proje Yönetimi)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Friday",
+                        "start": "08:40",
+                        "end": "12:30",
+                        "room": "G108"
+                    }
+                ],
+                "instructors": []
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "Friday",
+                        "start": "08:40",
+                        "end": "12:30",
+                        "room": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MSE486",
+            "numeric": "4600486",
+            "matched_by": "code"
+        },
+        "name": "MSE486 - PROBLEM SOLVING IN MATHEMATICS (MATEMATİKTE PROBLEM ÇÖZME)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "10:40",
+                        "end": "13:30",
+                        "room": "EFA-22"
+                    }
+                ],
+                "instructors": [
+                    "BULUT SAFURE",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PES2906",
+            "numeric": "4532906",
+            "matched_by": "code"
+        },
+        "name": "PES2906 - POOL AND BILLARDS (BİLARDO)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "08:40",
+                        "end": "12:30",
+                        "room": ""
+                    }
+                ],
+                "instructors": [
+                    "BAHADIR MUSTAFA",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PES2270",
+            "numeric": "4532270",
+            "matched_by": "code"
+        },
+        "name": "PES2270 - VOLUNTEERING (GÖNÜLLÜLÜK)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "08:40",
+                        "end": "12:30",
+                        "room": "EFD-204"
+                    }
+                ],
+                "instructors": [
+                    "ÖZTÜRK MEHMET ATA",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PES2905",
+            "numeric": "4532905",
+            "matched_by": "code"
+        },
+        "name": "PES2905 - GOLF (GOLF)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Wednesday",
+                        "start": "16:40",
+                        "end": "20:30",
+                        "room": "YP-D204"
+                    }
+                ],
+                "instructors": [
+                    "MAÇ ATAY",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PES3172",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "PES3172 - MOTOR LEARNING (BECERİ ÖĞRENİMİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "13:40",
+                        "end": "16:30",
+                        "room": "EFD-12"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "EDS304",
+            "numeric": "4540304",
+            "matched_by": "code"
+        },
+        "name": "EDS304 - CLASSROOM MANAGEMENT (SINIF YONETIMI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "EFD-12"
+                    }
+                ],
+                "instructors": [
+                    "ÇAKIR NUR",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "GERM202",
+            "numeric": "6040202",
+            "matched_by": "code"
+        },
+        "name": "GERM202 - GERMAN 202  A1.2 (ALMANCA 202)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "PT36"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MTE308"
+                    }
+                ],
+                "instructors": [
+                    "AYYILDIZ GÜLHAN",
+                    "STAFF"
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "PT36"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "MTE308"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "MTE308"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "YP-D205"
+                    }
+                ]
+            },
+            {
+                "section_id": "4",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": "MTE308"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": "YP-D205"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "FREN202",
+            "numeric": "6030202",
+            "matched_by": "code"
+        },
+        "name": "FREN202 - FRENCH 202  A1.2 (FRANSIZCA 202)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MEB203"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "CES3"
+                    }
+                ],
+                "instructors": [
+                    "MANKALYALI EMİNE İLKE",
+                    "STAFF"
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "MEB203"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "CES3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "JA203",
+            "numeric": "6050203",
+            "matched_by": "code"
+        },
+        "name": "JA203 - JAPANESE 203  A2.2 (JAPONCA 203)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "AE024"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "AE024"
+                    }
+                ],
+                "instructors": [
+                    "SÖKEN BERNA",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "FREN204",
+            "numeric": "6030204",
+            "matched_by": "code"
+        },
+        "name": "FREN204 - FRENCH 204  A2.2 (FRANSIZCA 204)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "MM309"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "GR218"
+                    }
+                ],
+                "instructors": [
+                    "MANKALYALI EMİNE İLKE",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "FREN203",
+            "numeric": "6030203",
+            "matched_by": "code"
+        },
+        "name": "FREN203 - FRENCH 203  A2.1 (FRANSIZCA 203)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "MM309"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "MEB203"
+                    }
+                ],
+                "instructors": [
+                    "AKDAŞ ÇELEBİ",
+                    "STAFF"
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "M105"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "MM309"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "CHN204",
+            "numeric": "6110204",
+            "matched_by": "code"
+        },
+        "name": "CHN204 - CHINESE 204  A2.2 (ÇİNCE 204)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": ""
+                    }
+                ],
+                "instructors": [
+                    "XIE MINGMING",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "GERM204",
+            "numeric": "6040204",
+            "matched_by": "code"
+        },
+        "name": "GERM204 - GERMAN 204  A2.2 (ALMANCA 204)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MEB204"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "MM308"
+                    }
+                ],
+                "instructors": [
+                    "FIRAT ARZU",
+                    "STAFF"
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "MM309"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MEB204"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": "CES3"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": "PT36"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "GRE201",
+            "numeric": "6100201",
+            "matched_by": "code"
+        },
+        "name": "GRE201 - GREEK 201 A1.1 (YUNANCA 201)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MM309"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "TH6"
+                    }
+                ],
+                "instructors": [
+                    "GÜZEL ŞÜKRAN GİZEM",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "GERM203",
+            "numeric": "6040203",
+            "matched_by": "code"
+        },
+        "name": "GERM203 - GERMAN 203  A2.1 (ALMANCA 203)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MM308"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MM309"
+                    }
+                ],
+                "instructors": [
+                    "BORHAU EVA BERTA IDA",
+                    "STAFF"
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "CES3"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "MTB309"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "Wednesday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "MM308"
+                    },
+                    {
+                        "day": "Friday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "MM309"
+                    }
+                ]
+            },
+            {
+                "section_id": "4",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "PT36"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "AE024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "FREN205",
+            "numeric": "6030205",
+            "matched_by": "code"
+        },
+        "name": "FREN205 - FRENCH 205  B1.1 (FRANSIZCA 205)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MTB309"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "HZ-E301"
+                    }
+                ],
+                "instructors": [
+                    "AKDAŞ ÇELEBİ",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "GERM207",
+            "numeric": "6040207",
+            "matched_by": "code"
+        },
+        "name": "GERM207 - GERMAN 207  B2.1 (ALMANCA 207)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "BMB A101"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "BMB A101"
+                    }
+                ],
+                "instructors": [
+                    "YILDIRIM MUKADDES",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ENG201",
+            "numeric": "6390201",
+            "matched_by": "code"
+        },
+        "name": "ENG201 - ENGLISH-TURKISH TRANSLATION (İNGİLİZCE'DEN TÜRKÇE'YE ÇEVİRİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Friday",
+                        "start": "12:40",
+                        "end": "15:30",
+                        "room": "HZ-E307"
+                    }
+                ],
+                "instructors": [
+                    "KARAKUŞ NURSEVİNÇ",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ENG219",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "ENG219 - ENGLISH THROUGH SEMINARS ON FILMS (FİLM SEMİNERLERİYLE İNGİLİZCE)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Wednesday",
+                        "start": "11:40",
+                        "end": "14:30",
+                        "room": "HZ-E307"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "JA202",
+            "numeric": "6050202",
+            "matched_by": "code"
+        },
+        "name": "JA202 - JAPANESE 202  A1.2 (JAPONCA 202)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "15:40",
+                        "end": "17:30",
+                        "room": "AE024"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "15:40",
+                        "end": "17:30",
+                        "room": "AE024"
+                    }
+                ],
+                "instructors": [
+                    "SÖKEN BERNA",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "GERM205",
+            "numeric": "6040205",
+            "matched_by": "code"
+        },
+        "name": "GERM205 - GERMAN 205 B1.1 (ALMANCA 205)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "CES3"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "EFA-28"
+                    }
+                ],
+                "instructors": [
+                    "YILDIRIM MUKADDES",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "RUS202",
+            "numeric": "6070202",
+            "matched_by": "code"
+        },
+        "name": "RUS202 - RUSSIAN 202  A1.2 (RUSÇA 202)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": "YP-D003"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MM309"
+                    }
+                ],
+                "instructors": [
+                    "TAĞIZADE LEYLA",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ENG310",
+            "numeric": "6390310",
+            "matched_by": "code"
+        },
+        "name": "ENG310 - FOUNDATIONS OF TURKISH HIGHER EDUCATION (TÜRK YÜKSEKÖĞRETİMİNİN TEMELLERİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Thursday",
+                        "start": "08:40",
+                        "end": "11:30",
+                        "room": "EFA-14"
+                    }
+                ],
+                "instructors": [
+                    "YILIK MEHMET ALİ",
+                    "STAFF"
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "14:40",
+                        "end": "17:30",
+                        "room": "EFA-15"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "GERM201",
+            "numeric": "6040201",
+            "matched_by": "code"
+        },
+        "name": "GERM201 - GERMAN 201  A1.1 (ALMANCA 201)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "EFA-28"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MM308"
+                    }
+                ],
+                "instructors": [
+                    "YAZICI ALEV",
+                    "STAFF"
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "13:40",
+                        "end": "15:30",
+                        "room": "R22"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "13:40",
+                        "end": "15:30",
+                        "room": "MTB309"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MM309"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MTB309"
+                    }
+                ]
+            },
+            {
+                "section_id": "4",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "MM308"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "EFA-28"
+                    }
+                ]
+            },
+            {
+                "section_id": "5",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "MM308"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "EFA-28"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "CHN201",
+            "numeric": "6110201",
+            "matched_by": "code"
+        },
+        "name": "CHN201 - CHINESE 201  A1.1 (ÇİNCE 201)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": ""
+                    }
+                ],
+                "instructors": [
+                    "REN QİUFAN",
+                    "STAFF"
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": ""
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": ""
+                    }
+                ]
+            },
+            {
+                "section_id": "4",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": ""
+                    }
+                ]
+            },
+            {
+                "section_id": "5",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": ""
+                    }
+                ]
+            },
+            {
+                "section_id": "6",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": ""
+                    }
+                ]
+            },
+            {
+                "section_id": "7",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "15:40",
+                        "end": "17:30",
+                        "room": "EFA-30"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "15:40",
+                        "end": "17:30",
+                        "room": "EFA-30"
+                    }
+                ]
+            },
+            {
+                "section_id": "8",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "EFA-30"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "EFA-15"
+                    }
+                ]
+            },
+            {
+                "section_id": "9",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": ""
+                    }
+                ]
+            },
+            {
+                "section_id": "10",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "16:40",
+                        "end": "18:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "16:40",
+                        "end": "18:30",
+                        "room": ""
+                    }
+                ]
+            },
+            {
+                "section_id": "11",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "BIO Z-06"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "EFA-10"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "FREN201",
+            "numeric": "6030201",
+            "matched_by": "code"
+        },
+        "name": "FREN201 - FRENCH 201  A1.1 (FRANSIZCA 201)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "Z120"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": "MEB204"
+                    }
+                ],
+                "instructors": [
+                    "HENDEN FİLİZ NİLÜFER",
+                    "STAFF"
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": "Z120"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "MEB204"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "Wednesday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "MM309"
+                    },
+                    {
+                        "day": "Friday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "MM308"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "CHN203",
+            "numeric": "6110203",
+            "matched_by": "code"
+        },
+        "name": "CHN203 - CHINESE 203  A2.1 (ÇİNCE 203)",
+        "credits": "",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "M106"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "EFA-16"
+                    }
+                ],
+                "instructors": [
+                    "XIE MINGMING",
+                    "STAFF"
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": "M106"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": "EFA-16"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": "BIO Z-06"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": "Z116"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "GRE202",
+            "numeric": "6100202",
+            "matched_by": "code"
+        },
+        "name": "GRE202 - GREEK 202  A1.2 (YUNANCA 202)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "13:40",
+                        "end": "15:30",
+                        "room": "M07"
+                    },
+                    {
+                        "day": "Tuesday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MTE308"
+                    }
+                ],
+                "instructors": [
+                    "GÜZEL ŞÜKRAN GİZEM",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ENG217",
+            "numeric": "6390217",
+            "matched_by": "code"
+        },
+        "name": "ENG217 - LITERARY TEXTS (EDEBİ METİNLER)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "13:40",
+                        "end": "16:30",
+                        "room": "HZ-E308"
+                    }
+                ],
+                "instructors": [
+                    "TAŞKESEN BENGÜ",
+                    "STAFF"
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Wednesday",
+                        "start": "14:40",
+                        "end": "17:30",
+                        "room": "HZ-E304"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "JA201",
+            "numeric": "6050201",
+            "matched_by": "code"
+        },
+        "name": "JA201 - JAPANESE 201  A1.1 (JAPONCA 201)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "15:40",
+                        "end": "17:30",
+                        "room": "MM308"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "15:40",
+                        "end": "17:30",
+                        "room": "AE024"
+                    }
+                ],
+                "instructors": [
+                    "SÖKEN BERNA",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "CHN202",
+            "numeric": "6110202",
+            "matched_by": "code"
+        },
+        "name": "CHN202 - CHINESE 202  A1.2 (ÇİNCE 202)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "13:40",
+                        "end": "15:30",
+                        "room": "EFA-28"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "13:40",
+                        "end": "15:30",
+                        "room": "EFA-28"
+                    }
+                ],
+                "instructors": [
+                    "WANG KANGJİNG",
+                    "STAFF"
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "15:40",
+                        "end": "17:30",
+                        "room": "EFA-28"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "15:40",
+                        "end": "17:30",
+                        "room": "EFA-28"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "MN123"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "EFA-30"
+                    }
+                ]
+            },
+            {
+                "section_id": "4",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MN123"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "EFA-30"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "RUS201",
+            "numeric": "6070201",
+            "matched_by": "code"
+        },
+        "name": "RUS201 - RUSSIAN 201  A1.1 (RUSÇA 201)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MTE308"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": "MM309"
+                    }
+                ],
+                "instructors": [
+                    "TAĞIZADE LEYLA",
+                    "STAFF"
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "MEB202"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "CES3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ENG312",
+            "numeric": "6390312",
+            "matched_by": "code"
+        },
+        "name": "ENG312 - CONVERSATIONAL ENGLISH (KONUŞMA İNGİLİZCESİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Wednesday",
+                        "start": "12:40",
+                        "end": "15:30",
+                        "room": "IE301"
+                    }
+                ],
+                "instructors": [
+                    "KÖSE ÖZGÜR",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "GERM206",
+            "numeric": "6040206",
+            "matched_by": "code"
+        },
+        "name": "GERM206 - GERMAN 206  B1.2 (ALMANCA 206)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Wednesday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "MM308"
+                    },
+                    {
+                        "day": "Friday",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "MM309"
+                    }
+                ],
+                "instructors": [
+                    "SARIHAN SEVİM",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "TURK317",
+            "numeric": "6420317",
+            "matched_by": "code"
+        },
+        "name": "TURK317 - SELECTIVE WRITERS FROM TURKISH AND WORLD LITERATURE II (TÜRK VE DÜNYA EDEBİYATINDAN SEÇMELER II)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Thursday",
+                        "start": "10:40",
+                        "end": "13:30",
+                        "room": "YP-D106"
+                    }
+                ],
+                "instructors": [
+                    "YILMAZ SİBEL",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "TURK318",
+            "numeric": "6420318",
+            "matched_by": "code"
+        },
+        "name": "TURK318 - TURKISH SIGN LANGUAGE (TÜRK İŞARET DİLİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "11:40",
+                        "end": "14:30",
+                        "room": "G204"
+                    }
+                ],
+                "instructors": [
+                    "TEKİN BÜLENT",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST352",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST352 - CLASSICAL GUITAR (KLASIK GITAR)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA119",
+            "numeric": "6430119",
+            "matched_by": "code"
+        },
+        "name": "THEA119 - SCIENCE COMMUNICATION (BİLİM İLETİŞİMİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Monday",
+                        "start": "15:40",
+                        "end": "18:30",
+                        "room": "U3"
+                    }
+                ],
+                "instructors": [
+                    "YILDIZ UMUT",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST162",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST162 - SAXOPHONE-CLARNET (SAKSAFON-KLARİNET)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST102",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST102 - PIANO (PIYANO)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST282",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST282 - TROMBONE (TROMBON)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST242",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST242 - VIOLONCELLO (VIYOLONSEL)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST262",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST262 - SAXOPHONE-CLARNET (SAKSAFON-KLARİNET)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS202",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "MUS202 - CLASSICAL TURKISH MUSIC (KLASIK TURK MUZIGI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS272",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "MUS272 - DRUM (DAVUL)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS122",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "MUS122 - VOICE (SAN)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST322",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST322 - VIOLIN (KEMAN)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST472",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST472 - TRUMPET (TROMPET)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA462",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "THEA462 - THEATER (TIYATRO)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST312",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST312 - FLUTE (FLUT)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA262",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "THEA262 - THEATER (TIYATRO)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS172",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "MUS172 - DRUM (DAVUL)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA212",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "THEA212 - PAINTING (RESIM)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS212",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "MUS212 - BASIC CHOIR EDUCATION (TEMEL KORO EĞİTİMİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST222",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST222 - VIOLIN (KEMAN)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA312",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "THEA312 - PAINTING (RESIM)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST272",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST272 - TRUMPET (TROMPET)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS152",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "MUS152 - JAZZ ORCHESTRE (CAZ ORKESTRASI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST122",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST122 - VIOLIN (KEMAN)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST152",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST152 - CLASSICAL GUITAR (KLASIK GITAR)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA301",
+            "numeric": "6430301",
+            "matched_by": "code"
+        },
+        "name": "THEA301 - MEDIA ECONOMICS (MEDYA EKONOMISI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": [
+                    "ÇAPLI YEŞİM",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA113",
+            "numeric": "6430113",
+            "matched_by": "code"
+        },
+        "name": "THEA113 - DRAWING (DESEN)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": [
+                    "YÖRÜK ÜMMÜHAN",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA101",
+            "numeric": "6430101",
+            "matched_by": "code"
+        },
+        "name": "THEA101 - INTERNATIONAL NEWS (ULUSLARARASI HABERLER)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": [
+                    "ÇAPLI YEŞİM",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA442",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "THEA442 - CERAMICS (SERAMIK)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST212",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST212 - FLUTE (FLUT)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST142",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST142 - VIOLONCELLO (VIYOLONSEL)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA362",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "THEA362 - THEATER (TIYATRO)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS112",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "MUS112 - BASIC CHOIR EDUCATION (TEMEL KORO EĞİTİMİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS372",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "MUS372 - DRUM (DAVUL)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA342",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "THEA342 - CERAMICS (SERAMIK)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST462",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST462 - SAXOPHONE-CLARNET (SAKSAFON-KLARİNET)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST172",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST172 - TRUMPET (TROMPET)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA412",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "THEA412 - PAINTING (RESIM)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA142",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "THEA142 - CERAMICS (SERAMIK)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST182",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST182 - TROMBONE (TROMBON)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST342",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST342 - VIOLONCELLO (VIYOLONSEL)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST402",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST402 - PIANO (PIYANO)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST112",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST112 - FLUTE (FLUT)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST202",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST202 - PIANO (PIYANO)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA242",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "THEA242 - CERAMICS (SERAMIK)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA162",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "THEA162 - THEATER (TIYATRO)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST372",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST372 - TRUMPET (TROMPET)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST362",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST362 - SAXOPHONE-CLARNET (SAKSAFON-KLARİNET)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST452",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST452 - CLASSICAL GUITAR (KLASIK GITAR)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA112",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "THEA112 - PAINTING (RESIM)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA118",
+            "numeric": "6430118",
+            "matched_by": "code"
+        },
+        "name": "THEA118 - EXPERIMENTAL STUDIO AND VISUAL THINKING (DENEYSEL ATÖLYE VE GÖRSEL DÜŞÜNME)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": [
+                    "BİCAN MİNE",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA498",
+            "numeric": "6430498",
+            "matched_by": "code"
+        },
+        "name": "THEA498 - SPECIAL TOPICS IN ARTS I (SANAT DALLARINDA ÖZEL ÇALIŞMALAR I)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": [
+                    "ATAKUMAN ÇİĞDEM",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS252",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "MUS252 - JAZZ ORCHESTRE (CAZ ORKESTRASI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS452",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "MUS452 - JAZZ ORCHESTRE (CAZ ORKESTRASI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS191",
+            "numeric": "6510191",
+            "matched_by": "code"
+        },
+        "name": "MUS191 - SOLFEGGIO (SOLFEJ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": [
+                    "YALDIZ AHMET",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS402",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "MUS402 - CLASSICAL TURKISH MUSIC (KLASIK TURK MUZIGI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA151",
+            "numeric": "6430151",
+            "matched_by": "code"
+        },
+        "name": "THEA151 - INTRODUCTION TO VIDEO PRODUCTION (VIDEO YAPIMINA GIRIS)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": [
+                    "AYDEMİR MEHMET OLCAY",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS464",
+            "numeric": "6510464",
+            "matched_by": "code"
+        },
+        "name": "MUS464 - TANGO MUSICALITY (TANGO MÜZİKALİTESİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": [
+                    "ŞENDAĞ BURAK",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST252",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST252 - CLASSICAL GUITAR (KLASIK GITAR)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST412",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST412 - FLUTE (FLUT)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS465",
+            "numeric": "6510465",
+            "matched_by": "code"
+        },
+        "name": "MUS465 - FLAMENKO SANATI (ART OF FLAMENCO)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": [
+                    "GÜNEŞ CEYHUN",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST442",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST442 - VIOLONCELLO (VIYOLONSEL)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST302",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST302 - PIANO (PIYANO)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS182",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "MUS182 - BASS GUITAR (BAS GİTAR)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS102",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "MUS102 - CLASSICAL TURKISH MUSIC (KLASIK TURK MUZIGI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS222",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "MUS222 - VOICE (SAN)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST482",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST482 - TROMBONE (TROMBON)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS282",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "MUS282 - BASS GUITAR (BAS GİTAR)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST422",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST422 - VIOLIN (KEMAN)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST382",
+            "numeric": "",
+            "matched_by": "none"
+        },
+        "name": "INST382 - TROMBONE (TROMBON)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": []
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA115",
+            "numeric": "6430115",
+            "matched_by": "code"
+        },
+        "name": "THEA115 - MYTHOLOGY AND ICONOGRAPFY (MİTOLOJİ VE İKONOGRAFİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ],
+                "instructors": [
+                    "BİCAN MİNE",
+                    "STAFF"
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ARME540",
+            "numeric": "8630540",
+            "matched_by": "code"
+        },
+        "name": "ARME540 - CONSERV. & RESTORATION ARCHAEOL. OBJECTS (ARKEOLOJİK BULUNTULARIN KORUNMASI VE ONARIMI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Thursday",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "R43"
+                    }
+                ],
+                "instructors": [
+                    "DUMAN AYŞE",
+                    "SALTIK EMİNE NEVİN"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ARME708",
+            "numeric": "8630708",
+            "matched_by": "code"
+        },
+        "name": "ARME708 - CONSERVATION SCIENCE IN ARCHAEOMETRY ()",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Thursday",
+                        "start": "13:40",
+                        "end": "16:30",
+                        "room": "R43"
+                    }
+                ],
+                "instructors": [
+                    "DUMAN AYŞE",
+                    "SALTIK EMİNE NEVİN"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ARME531",
+            "numeric": "8630531",
+            "matched_by": "code"
+        },
+        "name": "ARME531 - GENERAL ARCHAEOLOGY (GENEL ARKEOLOJİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Wednesday",
+                        "start": "13:40",
+                        "end": "16:30",
+                        "room": ""
+                    }
+                ],
+                "instructors": [
+                    "ATAKUMAN ÇİĞDEM",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "STPS400",
+            "numeric": "8310400",
+            "matched_by": "code"
+        },
+        "name": "STPS400 - SCIENCE, TECHNOLOGY AND SOCIETY (BİLİM, TEKNOLOJİ VE TOPLUM)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Friday",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "YP-A3"
+                    }
+                ],
+                "instructors": [
+                    "PAMUKCU MEHMET TEOMAN",
+                    "STAFF"
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "TKPR225",
+            "numeric": "7950225",
+            "matched_by": "code"
+        },
+        "name": "TKPR225 - SUPPLEMENTS (TAKVİYELER)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "15:40",
+                        "end": "17:30",
+                        "room": "P5"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "YP-D202"
+                    }
+                ],
+                "instructors": [
+                    "GÖĞÜŞ UĞUR",
+                    "STAFF"
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Wednesday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "YP-D202"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "YP-D105"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "TKPR224",
+            "numeric": "7950224",
+            "matched_by": "code"
+        },
+        "name": "TKPR224 - CULINARY & FOOD (MUTFAK VE GIDA)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "M07"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "13:40",
+                        "end": "15:30",
+                        "room": "P5"
+                    }
+                ],
+                "instructors": [
+                    "GÖĞÜŞ UĞUR",
+                    "STAFF"
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Tuesday",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "M05"
+                    },
+                    {
+                        "day": "Thursday",
+                        "start": "15:40",
+                        "end": "17:30",
+                        "room": "P4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "TKPR223",
+            "numeric": "7950223",
+            "matched_by": "code"
+        },
+        "name": "TKPR223 - MTH223-FUNDAMENTALS OF ENTREPRENEURSHIP AND INNOVATION (GİRİŞİMCİLİK VE İNOVASYONUN TEMELLERİ)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Thursday",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "YP-D001"
+                    }
+                ],
+                "instructors": [
+                    "DOĞAN BERK",
+                    "STAFF"
+                ]
+            }
+        ]
+    }
+]

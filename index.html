@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>METU NTE Course Catalog</title>
+  <link rel="stylesheet" href="styles.css?v=15.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+  <!-- Theme Switcher -->
+  <div class="theme-switcher" id="themeSwitcher">
+    <i class="icon fas fa-sun"></i>
+    <div class="switch"></div>
+    <i class="icon fas fa-moon"></i>
+  </div>
+
+  <div class="container">
+    <header>
+      <h1>METU Non-Technical Elective Course Catalog</h1>
+      <p>The courses below are <strong>2024-25 Spring</strong> semester non-technical elective courses that are currently open for <strong>ALL</strong> departments.</p>
+      <p>Select all of your available time slots to see exact courses available for your schedule.</p>
+      <p>You can also search for courses by code or name.</p>
+      <p>Updated on <strong>19:10 25.02.2025</strong></p>
+      <p>In case of any bug, recommendation etc you can contact us via <strong>destek@metu-non.tech</strong></p>
+    </header>
+
+    <div class="creators">
+      <p>Created by <span>hgunduzoglu</span> & <span>topcunht</span> & <span>AEV</span></p>
+    </div>
+
+    <!-- Search Input -->
+    <div class="search-container">
+      <input type="text" id="searchInput" placeholder="Search for courses by code or name...">
+    </div>
+
+    <div class="filter-container">
+      <h2>Choose Your Availability</h2>
+        <!-- Reminder Text -->
+      <div class="reminder">
+        * Please select a day first, then choose a time slot. 
+    
+      </div>
+      <div class ="reminder">  
+        * You need to select all of the lecture hours of a section to see it. If you select only the day without any time slot, you will be considered as available all day.
+      </div>
+      <!-- Gün + Slotlar -->
+      <div id="dayTimeSelection">
+        <!-- Dinamik oluşturulacak -->
+      </div>
+
+      <div class="hide-unscheduled">
+        <button id="hideUnscheduledBtn" class="hide-unscheduled-button" title="Toggle visibility of unscheduled courses">
+          <i class="fas fa-eye-slash"></i>
+          <span>Hide Unscheduled Courses</span>
+        </button>
+      </div>
+    </div>
+
+    <div class="total-courses">
+      <p>Total Courses: <span id="courseCount">0</span></p>
+    </div>
+    <div class="reminder">
+      <p>For DEPARTMENT OF MUSIC AND FINE ARTS courses, please check <a href="https://mgsb.metu.edu.tr/en/announcement/department-music-and-fine-arts-2024-2025-spring-semester-course-program" target="_blank">this announcement</a>.</p>
+      <p>For BA2204 course, please check <a href="https://ba.metu.edu.tr/" target="_blank">Department of Business Administration website</a>.</p>
+    </div>
+
+    <div class="courses-grid" id="coursesGrid">
+      <!-- Courses dynamically added here -->
+    </div>
+  </div>
+
+  <script src="script_v43.js"></script>
+</body>
+</html>
