@@ -88,7 +88,7 @@ const TIME_SLOTS = [
 
 // Ana veri kaynağını (JSON) yükle ve sayfayı başlat
 function startApp() {
-  fetch("nte_time_with_codes_v4.json")
+  fetch("nte_time_with_codes_v5.json")
     .then(res => res.json())
     .then(data => {
       courseData = data;
