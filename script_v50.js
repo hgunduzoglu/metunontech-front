@@ -88,7 +88,7 @@ const TIME_SLOTS = [
 
 // Ana veri kaynağını (JSON) yükle ve sayfayı başlat
 function startApp() {
-  fetch("nte_time_with_codes_v10.json")
+  fetch("nte_time_merged.json")
     .then(res => res.json())
     .then(data => {
       courseData = data;
@@ -419,3 +419,4 @@ function createCourseCard(course, availability) {
 function updateCourseCount(count) {
   courseCountElement.textContent = count;
 }
+
