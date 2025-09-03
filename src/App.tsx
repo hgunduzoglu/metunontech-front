@@ -2,11 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 import ThemeSwitcher from "./components/ThemeSwitcher";
 import DayTimeSelector from "./components/DayTimeSelector";
 import CourseCard from "./components/CourseCard";
-import {
-  hasUnscheduledSection,
-  hasValidSchedule,
-  isCourseCompatible
-} from "./utils";
+import { hasUnscheduledSection, hasValidSchedule, isCourseCompatible, formatUpdated } from "./utils";
 import type { Availability, Course } from "./types";
 
 export default function App() {
@@ -14,12 +10,33 @@ export default function App() {
   const [search, setSearch] = useState<string>("");
   const [hideUnscheduled, setHideUnscheduled] = useState<boolean>(false);
   const [availability, setAvailability] = useState<Availability>({});
+  const [updatedAt, setUpdatedAt] = useState<string>("");
 
   useEffect(() => {
-    fetch("/nte_time_with_codes.json")
-      .then((r) => r.json())
-      .then((data: Course[]) => setCourses(data))
-      .catch((e) => console.error("Error loading JSON:", e));
+    // 1) Kursları yükle
+    const loadCourses = async () => {
+      try {
+        const res = await fetch("/nte_time_with_codes.json");
+        const data: Course[] = await res.json();
+        setCourses(data);
+      } catch (e) {
+        console.error("Error loading JSON:", e);
+      }
+    };
+
+    // 2) Son değiştirilme zamanını HEAD ile al
+    const loadUpdated = async () => {
+      try {
+        const res = await fetch("/nte_time_with_codes.json", { method: "HEAD" });
+        const lm = res.headers.get("last-modified");
+        setUpdatedAt(formatUpdated(lm ? new Date(lm) : new Date()));
+      } catch {
+        setUpdatedAt(formatUpdated(new Date()));
+      }
+    };
+
+    loadCourses();
+    loadUpdated();
   }, []);
 
   const filtered = useMemo(() => {
@@ -58,7 +75,7 @@ export default function App() {
           </p>
           <p>Select all of your available time slots to see exact courses available for your schedule.</p>
           <p>You can also search for courses by code or name.</p>
-          <p>Updated on <strong>02:15 06.07.2025</strong></p>
+          <p>Updated on <strong>{updatedAt || "..."}</strong></p>
           <p>
             In case of any bug, recommendation etc you can contact us via{" "}
             <strong>destek@metu-non.tech</strong>
@@ -71,6 +88,7 @@ export default function App() {
           </p>
         </div>
 
+        {/* Search */}
         <div className="search-container">
           <input
             id="searchInput"
@@ -81,6 +99,7 @@ export default function App() {
           />
         </div>
 
+        {/* Filters */}
         <div className="filter-container">
           <h2>Choose Your Availability</h2>
           <div className="reminder">
@@ -110,27 +129,36 @@ export default function App() {
           </div>
         </div>
 
+        {/* Total */}
         <div className="total-courses">
           <p>
             Total Courses: <span id="courseCount">{filtered.length}</span>
           </p>
         </div>
 
+        {/* Reminders */}
         <div className="reminder">
           <p>
             For DEPARTMENT OF MUSIC AND FINE ARTS courses, please check{" "}
             <a
               href="https://mgsb.metu.edu.tr/en/announcement/department-music-and-fine-arts-2024-2025-spring-semester-course-program"
-              target="_blank" rel="noreferrer">this announcement</a>.
+              target="_blank"
+              rel="noreferrer"
+            >
+              this announcement
+            </a>
+            .
           </p>
           <p>
             For BA2204 course, please check{" "}
             <a href="https://ba.metu.edu.tr/" target="_blank" rel="noreferrer">
               Department of Business Administration website
-            </a>.
+            </a>
+            .
           </p>
         </div>
 
+        {/* Grid */}
         <div className="courses-grid" id="coursesGrid">
           {filtered.map((course) => (
             <CourseCard

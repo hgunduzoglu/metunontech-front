@@ -75,3 +75,9 @@ export const isCourseCompatible = (course: Course, availability: Availability): 
     isSectionCompatibleWithAvailability(sec, availability)
   );
 };
+export const formatUpdated = (d: Date): string => {
+  const p = (n: number) => n.toString().padStart(2, "0");
+  return `${p(d.getHours())}:${p(d.getMinutes())} ${p(d.getDate())}.${p(
+    d.getMonth() + 1
+  )}.${d.getFullYear()}`;
+};
