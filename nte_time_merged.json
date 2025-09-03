@@ -1,0 +1,3762 @@
+[
+    {
+        "code": {
+            "departmental": "ARCH460",
+            "numeric": "1200460"
+        },
+        "name": "ARCH460 - APPROPRIATE TECHNOLOGY (UYGUN YAPI TEKNOLOJİLERİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ARCH428",
+            "numeric": "1200428"
+        },
+        "name": "ARCH428 - DEV.IN REPUBLICAN TURKISH ARCH.1923-1990 (YİRMİNCİ YÜZYILDA TÜRKİYE'DE MİMARLIK)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Wed",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "R46"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "CRP333",
+            "numeric": "1210333"
+        },
+        "name": "CRP333 - INTRODUCTION TO URBAN DESIGN (KENTSEL TASARIMA GİRİŞ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Mon",
+                        "start": "08:40",
+                        "end": "13:30",
+                        "room": "R44"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "CRP414",
+            "numeric": "1210414"
+        },
+        "name": "CRP414 - URBAN  PROJECT MANAGEMENT (KENTSEL PROJE YÖNETİMİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Thu",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "R44"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PHYS360",
+            "numeric": "2300360"
+        },
+        "name": "PHYS360 - SCIENCE IN HISTORY (TARİHTE BİLİM)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Mon",
+                        "start": "14:40",
+                        "end": "17:30",
+                        "room": "P-421"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PSY1010",
+            "numeric": "2331010"
+        },
+        "name": "PSY1010 - GENERAL PSYCHOLOGY (GENEL PSİKOLOJİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "6",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PSY1410",
+            "numeric": "2331410"
+        },
+        "name": "PSY1410 - UNDERSTANDING SOCIAL BEHAVIOR (SOSYAL DAVRANIŞLAR)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST443",
+            "numeric": "2400443"
+        },
+        "name": "HIST443 - HISTORY OF THE USSR-I (SSCB TARİHİ I)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Thu",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "B07"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST311",
+            "numeric": "2400311"
+        },
+        "name": "HIST311 - THE BEGINNINGS: FROM PALAEOLITHIC TO NEOLITHIC SOCIETIES  OF THE LEVANT (BAŞLANGIÇLAR: LEVANT'IN PALAEOLİTİKTEN NEOLİTİK TOPLULUKLARINA)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tue",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "B06"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST531",
+            "numeric": "2400531"
+        },
+        "name": "HIST531 - HISTORY OF THE LATE OTTOMAN EMPIRE: POLITICAL STRUGGLES, DIPLOMACY AND CRISES (OSMANLI MODERNİZASYONUNUN DOĞUŞU)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Fri",
+                        "start": "13:40",
+                        "end": "16:30",
+                        "room": "B04"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST434",
+            "numeric": "2400434"
+        },
+        "name": "HIST434 - MAJOR ISSUES IN THE HISTORY OF CONTEMPORARY TURKEY (ÇAĞDAŞ TÜRKİYE TARİHİNDE TEMEL KONULAR)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Wed",
+                        "start": "11:40",
+                        "end": "14:30",
+                        "room": "B205-A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST229",
+            "numeric": "2400229"
+        },
+        "name": "HIST229 - EARLY ANATOLIAN CIVILIZATIONS (ERKEN ANADOLU MEDENİYETLERİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Fri",
+                        "start": "13:40",
+                        "end": "16:30",
+                        "room": "B05"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST427",
+            "numeric": "2400427"
+        },
+        "name": "HIST427 - AMERICAN CULTURAL HISTORY I (AMERİKAN KÜLTÜR TARİHİ I)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tue",
+                        "start": "13:40",
+                        "end": "16:30",
+                        "room": "B08"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST341",
+            "numeric": "2400341"
+        },
+        "name": "HIST341 - AMERICAN CIVILIZATION: THEMES & ISSUES I (AMERİKAN MEDENİYETİ: TEMALAR VE KONULAR I)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Mon",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "B07"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST577",
+            "numeric": "2400577"
+        },
+        "name": "HIST577 - HISTORY OF THE LATE OTTOMAN EMPIRE, 1878-1922 (GEÇ DÖNEM OSMANLI TARİHİ, 1878-1922)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Thu",
+                        "start": "11:40",
+                        "end": "14:30",
+                        "room": "B04"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST546",
+            "numeric": "2400546"
+        },
+        "name": "HIST546 - NATIONALISM IN THE BALKANS UNTIL THE FIRST WORLD WAR (BİRİNCİ DÜNYA SAVAŞINA KADAR BALKANLARDA MİLLİYETÇİLİK)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST570",
+            "numeric": "2400570"
+        },
+        "name": "HIST570 - OTTOMAN URBAN HISTORY (OSMANLI KENT TARİHİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tue",
+                        "start": "10:40",
+                        "end": "13:30",
+                        "room": "B206"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST409",
+            "numeric": "2400409"
+        },
+        "name": "HIST409 - HISTORY OF ISLAM (İSLAM TARİHİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tue",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "B104"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST556",
+            "numeric": "2400556"
+        },
+        "name": "HIST556 - THE CAUCASUS: HISTORY AND POLITICS (KAFKASYA: TARİH VE SİYASET)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Mon",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "B06"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST474",
+            "numeric": "2400474"
+        },
+        "name": "HIST474 - HISTORY OF AVIATION (HAVACILIK TARİHİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Thu",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "AE024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST417",
+            "numeric": "2400417"
+        },
+        "name": "HIST417 - RUSSIAN HISTORY I (RUS TARİHİ I)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Wed",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "B06"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST251",
+            "numeric": "2400251"
+        },
+        "name": "HIST251 - HISTORICAL READINGS IN GREEK I (YUNANCA TARİH OKUMALARI I)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Wed",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": "B206"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST563",
+            "numeric": "2400563"
+        },
+        "name": "HIST563 - EMERGENCE AND EVOLUTION OF ARMENIAN QUESTION (ERMENİ SORUNUN ORTAYA ÇIKIŞI VE EVRİMİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Thu",
+                        "start": "08:40",
+                        "end": "11:30",
+                        "room": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "HIST343",
+            "numeric": "2400343"
+        },
+        "name": "HIST343 - RECENT AMERICAN HISTORY SINCE 1945 (1945 SONRASI YAKIN AMERİKAN TARİHİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Mon",
+                        "start": "13:40",
+                        "end": "16:30",
+                        "room": "B05"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PHIL115",
+            "numeric": "2410115"
+        },
+        "name": "PHIL115 - INTRODUCTION TO THE HISTORY OF PHILOSOPHY (FELSEFE TARİHİNE GİRİŞ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Thu",
+                        "start": "10:40",
+                        "end": "13:30",
+                        "room": "YP-D202"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PHIL208",
+            "numeric": "2410208"
+        },
+        "name": "PHIL208 - ENVIROMENTAL ETHICS (ÇEVRE ETİĞİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Wed",
+                        "start": "16:40",
+                        "end": "17:30",
+                        "room": "B104"
+                    },
+                    {
+                        "day": "Fri",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "YP-D203"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PHIL205",
+            "numeric": "2410205"
+        },
+        "name": "PHIL205 - BASIC PHILOSOPHY OF SCIENCE (BİLİM FELSEFESİNE GİRİŞ)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Thu",
+                        "start": "13:40",
+                        "end": "15:30",
+                        "room": "B05"
+                    },
+                    {
+                        "day": "Tue",
+                        "start": "15:40",
+                        "end": "17:30",
+                        "room": "M05"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PHIL353",
+            "numeric": "2410353"
+        },
+        "name": "PHIL353 - PHILOSPHY OF MARX (MARX'IN FELSEFESİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Wed",
+                        "start": "11:40",
+                        "end": "13:30",
+                        "room": "B07"
+                    },
+                    {
+                        "day": "Thu",
+                        "start": "12:40",
+                        "end": "13:30",
+                        "room": "B06"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ADM1121",
+            "numeric": "3101121"
+        },
+        "name": "ADM1121 - INTRODUCTION TO POLITICS I (SİYASET BİLİMİNE GİRİŞ I)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "6",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ADM2121",
+            "numeric": "3102121"
+        },
+        "name": "ADM2121 - HISTORY OF POLITICAL THOUGHT I (SİYASAL DÜŞÜNCELER TARİHİ I)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ECON203",
+            "numeric": "3110203"
+        },
+        "name": "ECON203 - MICROECONOMIC THEORY II (MİKROİKTİSAT KURAMI II)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ECON210",
+            "numeric": ""
+        },
+        "name": "ECON210 - PRINCIPLES OF ECONOMICS (GİRİŞ İKTİSADI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Thu",
+                        "start": "09:40",
+                        "end": "12:30",
+                        "room": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "BA4137",
+            "numeric": ""
+        },
+        "name": "BA4137 - ENTREPRENEURSHIP (Girişimcilik)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "4",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "BA4217",
+            "numeric": ""
+        },
+        "name": "BA4217 - CASES IN HR APPRAISAL AND MANAGEMENT (İnsan Kaynakları Değerlemelerinde ve Yönetiminde Örnek Olaylar)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "BA2203",
+            "numeric": "3122203"
+        },
+        "name": "BA2203 - ORGANIZATIONS (Örgütsel Davranış)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "BA4616",
+            "numeric": ""
+        },
+        "name": "BA4616 - SERVICES MANAGEMENT (Hizmet Yönetimi)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MSE486",
+            "numeric": "4600486"
+        },
+        "name": "MSE486 - PROBLEM SOLVING IN MATHEMATICS (MATEMATİKTE PROBLEM ÇÖZME)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PES2923",
+            "numeric": "4532923"
+        },
+        "name": "PES2923 - HANDBALL (HENTBOL)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PES2906",
+            "numeric": "4532906"
+        },
+        "name": "PES2906 - POOL AND BILLARDS (BİLARDO)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PES2270",
+            "numeric": "4532270"
+        },
+        "name": "PES2270 - VOLUNTEERING (GÖNÜLLÜLÜK)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PES1701",
+            "numeric": "4531701"
+        },
+        "name": "PES1701 - GYMNASTICS (CİMNASTİK)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PES2905",
+            "numeric": "4532905"
+        },
+        "name": "PES2905 - GOLF (GOLF)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PES3172",
+            "numeric": ""
+        },
+        "name": "PES3172 - MOTOR LEARNING (BECERİ ÖĞRENİMİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PES2921",
+            "numeric": "4532921"
+        },
+        "name": "PES2921 - BASKETBALL (BASKETBOL)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PES3584",
+            "numeric": "4533584"
+        },
+        "name": "PES3584 - PHYSICAL ACTIVITY AND PUBLIC HEALTH (FİZİKSEL AKTİVİTE VE HALK SAĞLIĞI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "GERM202",
+            "numeric": "6040202"
+        },
+        "name": "GERM202 - GERMAN 202  A1.2 (ALMANCA 202)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tue",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Thu",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MM308"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Tue",
+                        "start": "13:40",
+                        "end": "15:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Thu",
+                        "start": "13:40",
+                        "end": "15:30",
+                        "room": "MM308"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "Mon",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Wed",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": ""
+                    }
+                ]
+            },
+            {
+                "section_id": "4",
+                "times": [
+                    {
+                        "day": "Mon",
+                        "start": "13:40",
+                        "end": "15:30",
+                        "room": "MM308"
+                    },
+                    {
+                        "day": "Wed",
+                        "start": "13:40",
+                        "end": "15:30",
+                        "room": ""
+                    }
+                ]
+            },
+            {
+                "section_id": "5",
+                "times": [
+                    {
+                        "day": "Tue",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Thu",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "MM309"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "FREN202",
+            "numeric": "6030202"
+        },
+        "name": "FREN202 - FRENCH 202  A1.2 (FRANSIZCA 202)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Mon",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "MM309"
+                    },
+                    {
+                        "day": "Wed",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": ""
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Mon",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MM309"
+                    },
+                    {
+                        "day": "Wed",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "FREN204",
+            "numeric": "6030204"
+        },
+        "name": "FREN204 - FRENCH 204  A2.2 (FRANSIZCA 204)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tue",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Thu",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "FREN203",
+            "numeric": "6030203"
+        },
+        "name": "FREN203 - FRENCH 203  A2.1 (FRANSIZCA 203)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Mon",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Wed",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "MM308"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Tue",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Thu",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "MM308"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "GERM204",
+            "numeric": "6040204"
+        },
+        "name": "GERM204 - GERMAN 204  A2.2 (ALMANCA 204)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Wed",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Fri",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "MM308"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Mon",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Wed",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MM308"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "Mon",
+                        "start": "13:40",
+                        "end": "15:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Wed",
+                        "start": "13:40",
+                        "end": "15:30",
+                        "room": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "GRE201",
+            "numeric": "6100201"
+        },
+        "name": "GRE201 - GREEK 201 A1.1 (YUNANCA 201)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Mon",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Tue",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MM309"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Mon",
+                        "start": "13:40",
+                        "end": "15:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Wed",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "MM309"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "GERM203",
+            "numeric": "6040203"
+        },
+        "name": "GERM203 - GERMAN 203  A2.1 (ALMANCA 203)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Mon",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "MM308"
+                    },
+                    {
+                        "day": "Wed",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": ""
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Tue",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "MM308"
+                    },
+                    {
+                        "day": "Thu",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": ""
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "Tue",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": "MM308"
+                    },
+                    {
+                        "day": "Thu",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": ""
+                    }
+                ]
+            },
+            {
+                "section_id": "4",
+                "times": [
+                    {
+                        "day": "Tue",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MM308"
+                    },
+                    {
+                        "day": "Thu",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "FREN205",
+            "numeric": "6030205"
+        },
+        "name": "FREN205 - FRENCH 205  B1.1 (FRANSIZCA 205)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Mon",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Wed",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PERS201",
+            "numeric": "6120201"
+        },
+        "name": "PERS201 - PERSIAN LANGUAGE  I (FARSÇA 201)",
+        "credits": "",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "PERS202",
+            "numeric": "6120202"
+        },
+        "name": "PERS202 - PERSIAN LANGUAGE II (FARSÇA 202)",
+        "credits": "",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "JA202",
+            "numeric": "6050202"
+        },
+        "name": "JA202 - JAPANESE 202  A1.2 (JAPONCA 202)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tue",
+                        "start": "15:40",
+                        "end": "17:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Thu",
+                        "start": "15:40",
+                        "end": "17:30",
+                        "room": "MM308"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "RUS203",
+            "numeric": "6070203"
+        },
+        "name": "RUS203 - RUSSIAN 203  A2.1 (RUSÇA 203)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "GERM205",
+            "numeric": "6040205"
+        },
+        "name": "GERM205 - GERMAN 205 B1.1 (ALMANCA 205)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tue",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": "MM309"
+                    },
+                    {
+                        "day": "Thu",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": "MM309"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "RUS202",
+            "numeric": "6070202"
+        },
+        "name": "RUS202 - RUSSIAN 202  A1.2 (RUSÇA 202)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ENG310",
+            "numeric": "6390310"
+        },
+        "name": "ENG310 - FOUNDATIONS OF TURKISH HIGHER EDUCATION (TÜRK YÜKSEKÖĞRETİMİNİN TEMELLERİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "GERM201",
+            "numeric": "6040201"
+        },
+        "name": "GERM201 - GERMAN 201  A1.1 (ALMANCA 201)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tue",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "MM308"
+                    },
+                    {
+                        "day": "Thu",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": ""
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Wed",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Fri",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "YP-D104"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "Tue",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Thu",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "MM309"
+                    }
+                ]
+            },
+            {
+                "section_id": "4",
+                "times": [
+                    {
+                        "day": "Tue",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Thu",
+                        "start": "13:40",
+                        "end": "15:30",
+                        "room": ""
+                    }
+                ]
+            },
+            {
+                "section_id": "5",
+                "times": [
+                    {
+                        "day": "Mon",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Wed",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "CHN201",
+            "numeric": "6110201"
+        },
+        "name": "CHN201 - CHINESE 201  A1.1 (ÇİNCE 201)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "4",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "5",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "6",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "7",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "8",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "9",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "FREN201",
+            "numeric": "6030201"
+        },
+        "name": "FREN201 - FRENCH 201  A1.1 (FRANSIZCA 201)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tue",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "MM309"
+                    },
+                    {
+                        "day": "Thu",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "MM309"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Wed",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Fri",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "MM309"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "Wed",
+                        "start": "15:40",
+                        "end": "17:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Fri",
+                        "start": "14:40",
+                        "end": "16:30",
+                        "room": "MM309"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "CHN203",
+            "numeric": "6110203"
+        },
+        "name": "CHN203 - CHINESE 203  A2.1 (ÇİNCE 203)",
+        "credits": "",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "GRE202",
+            "numeric": "6100202"
+        },
+        "name": "GRE202 - GREEK 202  A1.2 (YUNANCA 202)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tue",
+                        "start": "08:40",
+                        "end": "10:30",
+                        "room": "M08"
+                    },
+                    {
+                        "day": "Wed",
+                        "start": "10:40",
+                        "end": "12:30",
+                        "room": "M08"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "JA201",
+            "numeric": "6050201"
+        },
+        "name": "JA201 - JAPANESE 201  A1.1 (JAPONCA 201)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Mon",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Wed",
+                        "start": "15:40",
+                        "end": "17:30",
+                        "room": "MM309"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Mon",
+                        "start": "15:40",
+                        "end": "17:30",
+                        "room": ""
+                    },
+                    {
+                        "day": "Wed",
+                        "start": "12:40",
+                        "end": "14:30",
+                        "room": "MM309"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "CHN202",
+            "numeric": "6110202"
+        },
+        "name": "CHN202 - CHINESE 202  A1.2 (ÇİNCE 202)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "4",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "RUS201",
+            "numeric": "6070201"
+        },
+        "name": "RUS201 - RUSSIAN 201  A1.1 (RUSÇA 201)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ENG312",
+            "numeric": "6390312"
+        },
+        "name": "ENG312 - CONVERSATIONAL ENGLISH (KONUŞMA İNGİLİZCESİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ENG311",
+            "numeric": "6390311"
+        },
+        "name": "ENG311 - PROFESSIONAL COMMUNICATION AND CAREER SKILLS (PROFESYONEL İLETİŞİM VE KARİYER BECERİLERİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Tue",
+                        "start": "10:40",
+                        "end": "13:30",
+                        "room": "YP-D103"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "Thu",
+                        "start": "10:40",
+                        "end": "13:30",
+                        "room": "YP-D104"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "4",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "5",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "6",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "7",
+                "times": [
+                    {
+                        "day": "Thu",
+                        "start": "10:40",
+                        "end": "13:30",
+                        "room": "YP-D102"
+                    }
+                ]
+            },
+            {
+                "section_id": "8",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "9",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "10",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "11",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "12",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "13",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "14",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "15",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "16",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "TURK318",
+            "numeric": "6420318"
+        },
+        "name": "TURK318 - TURKISH SIGN LANGUAGE (TÜRK İŞARET DİLİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA119",
+            "numeric": "6430119"
+        },
+        "name": "THEA119 - SCIENCE COMMUNICATION (BİLİM İLETİŞİMİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "Mon",
+                        "start": "15:40",
+                        "end": "18:30",
+                        "room": "U3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA121",
+            "numeric": ""
+        },
+        "name": "THEA121 - CAM (GLASS ART) (CAM)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST211",
+            "numeric": ""
+        },
+        "name": "INST211 - FLUTE (FLUT)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST181",
+            "numeric": ""
+        },
+        "name": "INST181 - TROMBONE (TROMBON)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS311",
+            "numeric": ""
+        },
+        "name": "MUS311 - BASIC CHOIR EDUCATION (TEMEL KORO EĞİTİMİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA311",
+            "numeric": ""
+        },
+        "name": "THEA311 - PAINTING (RESIM)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST401",
+            "numeric": ""
+        },
+        "name": "INST401 - PIANO (PIYANO)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST191",
+            "numeric": "6820191"
+        },
+        "name": "INST191 - NEY (NEY)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA221",
+            "numeric": ""
+        },
+        "name": "THEA221 - CAM (GLASS ART) (CAM)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS401",
+            "numeric": ""
+        },
+        "name": "MUS401 - CLASSICAL TURKISH MUSIC (KLASIK TURK MUZIGI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS421",
+            "numeric": ""
+        },
+        "name": "MUS421 - VOICE (SAN)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST101",
+            "numeric": ""
+        },
+        "name": "INST101 - PIANO (PIYANO)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS171",
+            "numeric": ""
+        },
+        "name": "MUS171 - DRUM (DAVUL)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA161",
+            "numeric": ""
+        },
+        "name": "THEA161 - THEATER (TIYATRO)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA301",
+            "numeric": "6430301"
+        },
+        "name": "THEA301 - MEDIA ECONOMICS (MEDYA EKONOMISI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS242",
+            "numeric": "6510242"
+        },
+        "name": "MUS242 - ART AND SCIENCE CULTURE (SANAT VE BILIM KULTURU)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA113",
+            "numeric": "6430113"
+        },
+        "name": "THEA113 - DRAWING (DESEN)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA101",
+            "numeric": "6430101"
+        },
+        "name": "THEA101 - INTERNATIONAL NEWS (ULUSLARARASI HABERLER)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA499",
+            "numeric": "6430499"
+        },
+        "name": "THEA499 - SPECIAL TOPICS IN ARTS (SANAT DALLARINDA ÖZEL ÇALIŞMALAR)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS321",
+            "numeric": ""
+        },
+        "name": "MUS321 - VOICE (SAN)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST351",
+            "numeric": ""
+        },
+        "name": "INST351 - CLASSICAL GUITAR (KLASIK GITAR)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST451",
+            "numeric": ""
+        },
+        "name": "INST451 - CLASSICAL GUITAR (KLASIK GITAR)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA461",
+            "numeric": ""
+        },
+        "name": "THEA461 - THEATER (TIYATRO)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST261",
+            "numeric": ""
+        },
+        "name": "INST261 - SAXOPHONE-CLARNET (SAKSAFON-KLARİNET)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS451",
+            "numeric": ""
+        },
+        "name": "MUS451 - JAZZ ORCHESTRE (CAZ ORKESTRASI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST111",
+            "numeric": ""
+        },
+        "name": "INST111 - FLUTE (FLUT)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST421",
+            "numeric": ""
+        },
+        "name": "INST421 - VIOLIN (KEMAN)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST121",
+            "numeric": ""
+        },
+        "name": "INST121 - VIOLIN (KEMAN)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA321",
+            "numeric": ""
+        },
+        "name": "THEA321 - CAM (GLASS ART) (CAM)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST251",
+            "numeric": ""
+        },
+        "name": "INST251 - CLASSICAL GUITAR (KLASIK GITAR)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA441",
+            "numeric": ""
+        },
+        "name": "THEA441 - CERAMICS (SERAMIK)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST481",
+            "numeric": ""
+        },
+        "name": "INST481 - TROMBONE (TROMBON)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS481",
+            "numeric": ""
+        },
+        "name": "MUS481 - BASS GUITAR (BAS GİTAR)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST301",
+            "numeric": ""
+        },
+        "name": "INST301 - PIANO (PIYANO)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST201",
+            "numeric": ""
+        },
+        "name": "INST201 - PIANO (PIYANO)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS111",
+            "numeric": ""
+        },
+        "name": "MUS111 - BASIC CHOIR EDUCATION (TEMEL KORO EĞİTİMİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST341",
+            "numeric": ""
+        },
+        "name": "INST341 - VIOLONCELLO (VIYOLONSEL)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST441",
+            "numeric": ""
+        },
+        "name": "INST441 - VIOLONCELLO (VIYOLONSEL)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST311",
+            "numeric": ""
+        },
+        "name": "INST311 - FLUTE (FLUT)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA241",
+            "numeric": ""
+        },
+        "name": "THEA241 - CERAMICS (SERAMIK)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS101",
+            "numeric": ""
+        },
+        "name": "MUS101 - CLASSICAL TURKISH MUSIC (KLASIK TURK MUZIGI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST281",
+            "numeric": ""
+        },
+        "name": "INST281 - TROMBONE (TROMBON)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA341",
+            "numeric": ""
+        },
+        "name": "THEA341 - CERAMICS (SERAMIK)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA411",
+            "numeric": ""
+        },
+        "name": "THEA411 - PAINTING (RESIM)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST471",
+            "numeric": ""
+        },
+        "name": "INST471 - TRUMPET (TROMPET)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST161",
+            "numeric": ""
+        },
+        "name": "INST161 - SAXOPHONE-CLARNET (SAKSAFON-KLARİNET)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA111",
+            "numeric": ""
+        },
+        "name": "THEA111 - PAINTING (RESIM)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS211",
+            "numeric": ""
+        },
+        "name": "MUS211 - BASIC CHOIR EDUCATION (TEMEL KORO EĞİTİMİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS251",
+            "numeric": ""
+        },
+        "name": "MUS251 - JAZZ ORCHESTRE (CAZ ORKESTRASI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS221",
+            "numeric": ""
+        },
+        "name": "MUS221 - VOICE (SAN)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA118",
+            "numeric": "6430118"
+        },
+        "name": "THEA118 - EXPERIMENTAL STUDIO AND VISUAL THINKING (DENEYSEL ATÖLYE VE GÖRSEL DÜŞÜNME)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST321",
+            "numeric": ""
+        },
+        "name": "INST321 - VIOLIN (KEMAN)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS151",
+            "numeric": ""
+        },
+        "name": "MUS151 - JAZZ ORCHESTRE (CAZ ORKESTRASI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST171",
+            "numeric": ""
+        },
+        "name": "INST171 - TRUMPET (TROMPET)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA211",
+            "numeric": ""
+        },
+        "name": "THEA211 - PAINTING (RESIM)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA498",
+            "numeric": "6430498"
+        },
+        "name": "THEA498 - SPECIAL TOPICS IN ARTS I (SANAT DALLARINDA ÖZEL ÇALIŞMALAR I)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST411",
+            "numeric": ""
+        },
+        "name": "INST411 - FLUTE (FLUT)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS271",
+            "numeric": ""
+        },
+        "name": "MUS271 - DRUM (DAVUL)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST381",
+            "numeric": ""
+        },
+        "name": "INST381 - TROMBONE (TROMBON)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST241",
+            "numeric": ""
+        },
+        "name": "INST241 - VIOLONCELLO (VIYOLONSEL)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA361",
+            "numeric": ""
+        },
+        "name": "THEA361 - THEATER (TIYATRO)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS301",
+            "numeric": ""
+        },
+        "name": "MUS301 - CLASSICAL TURKISH MUSIC (KLASIK TURK MUZIGI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS191",
+            "numeric": "6510191"
+        },
+        "name": "MUS191 - SOLFEGGIO (SOLFEJ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA141",
+            "numeric": ""
+        },
+        "name": "THEA141 - CERAMICS (SERAMIK)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST461",
+            "numeric": ""
+        },
+        "name": "INST461 - SAXOPHONE-CLARNET (SAKSAFON-KLARİNET)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST371",
+            "numeric": ""
+        },
+        "name": "INST371 - TRUMPET (TROMPET)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST361",
+            "numeric": ""
+        },
+        "name": "INST361 - SAXOPHONE-CLARNET (SAKSAFON-KLARİNET)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS464",
+            "numeric": "6510464"
+        },
+        "name": "MUS464 - TANGO MUSICALITY (TANGO MÜZİKALİTESİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS281",
+            "numeric": ""
+        },
+        "name": "MUS281 - BASS GUITAR (BAS GİTAR)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST141",
+            "numeric": ""
+        },
+        "name": "INST141 - VIOLONCELLO (VIYOLONSEL)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS465",
+            "numeric": "6510465"
+        },
+        "name": "MUS465 - FLAMENKO SANATI (ART OF FLAMENCO)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST271",
+            "numeric": ""
+        },
+        "name": "INST271 - TRUMPET (TROMPET)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA281",
+            "numeric": "6430281"
+        },
+        "name": "THEA281 - FILM ANALYSIS (FILM ANALIZI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA421",
+            "numeric": ""
+        },
+        "name": "THEA421 - CAM (GLASS ART) (CAM)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST221",
+            "numeric": ""
+        },
+        "name": "INST221 - VIOLIN (KEMAN)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS121",
+            "numeric": ""
+        },
+        "name": "MUS121 - VOICE (SAN)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "INST151",
+            "numeric": ""
+        },
+        "name": "INST151 - CLASSICAL GUITAR (KLASIK GITAR)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "3",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA261",
+            "numeric": ""
+        },
+        "name": "THEA261 - THEATER (TIYATRO)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "THEA115",
+            "numeric": "6430115"
+        },
+        "name": "THEA115 - MYTHOLOGY AND ICONOGRAPFY (MİTOLOJİ VE İKONOGRAFİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "MUS201",
+            "numeric": ""
+        },
+        "name": "MUS201 - CLASSICAL TURKISH MUSIC (KLASIK TURK MUZIGI)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ARME563",
+            "numeric": "8630563"
+        },
+        "name": "ARME563 - CULTURAL EVOLUTION I (KÜLTÜREL EVRİM I)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "ARME531",
+            "numeric": "8630531"
+        },
+        "name": "ARME531 - GENERAL ARCHAEOLOGY (GENEL ARKEOLOJİ)",
+        "credits": "3",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "TKPR224",
+            "numeric": "7950224"
+        },
+        "name": "TKPR224 - CULINARY & FOOD (MUTFAK VE GIDA)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            },
+            {
+                "section_id": "2",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": {
+            "departmental": "TKPR223",
+            "numeric": "7950223"
+        },
+        "name": "TKPR223 - MTH223-FUNDAMENTALS OF ENTREPRENEURSHIP AND INNOVATION (GİRİŞİMCİLİK VE İNOVASYONUN TEMELLERİ)",
+        "credits": "4",
+        "sections": [
+            {
+                "section_id": "1",
+                "times": [
+                    {
+                        "day": "No Timestamp Added Yet"
+                    }
+                ]
+            }
+        ]
+    }
+]
