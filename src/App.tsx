@@ -5,8 +5,7 @@ import CourseCard from "./components/CourseCard";
 import {
   hasUnscheduledSection,
   hasValidSchedule,
-  isCourseCompatible,
-  isSectionCompatibleWithAvailability,
+  isCourseCompatible
 } from "./utils";
 import type { Availability, Course } from "./types";
 

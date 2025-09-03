@@ -1,6 +1,7 @@
 import { DAYS } from "../constants";
 import type { Availability, Course, Section, TimeItem } from "../types";
 import { isSectionCompatibleWithAvailability } from "../utils";
+import { Fragment } from "react";
 
 interface Props {
   course: Course;
@@ -60,10 +61,9 @@ export default function CourseCard({ course, availability }: Props) {
           <div className="section-block" key={section.section_id}>
             <h3>Section {section.section_id}</h3>
             {section.times?.map((t, idx) => (
-  // ekstra wrapper yok
-                <>{renderTime(t)}</>
-                ))
-            }
+              <Fragment key={idx}>{renderTime(t)}</Fragment>
+                ))}
+
             {renderInstructors(section.instructors)}
           </div>
         ))}
