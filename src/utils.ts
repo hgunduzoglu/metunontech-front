@@ -19,11 +19,17 @@ export const getSlotIndexesForTimeRange = (startStr: string, endStr: string): nu
 };
 
 export const convertDayStringToNumber = (dayStr: string): number => {
+  const s = dayStr.trim().toLowerCase();
   const map: Record<string, number> = {
-    Monday: 0, Tuesday: 1, Wednesday: 2, Thursday: 3, Friday: 4,
-    Saturday: 5, Sunday: 6,
+    monday: 0, mon: 0,
+    tuesday: 1, tue: 1, tues: 1,
+    wednesday: 2, wed: 2,
+    thursday: 3, thu: 3, thur: 3, thurs: 3,
+    friday: 4, fri: 4,
+    saturday: 5, sat: 5,
+    sunday: 6, sun: 6,
   };
-  return map[dayStr] ?? -1;
+  return map[s] ?? -1;
 };
 
 export const hasUnscheduledSection = (course: Course): boolean =>
