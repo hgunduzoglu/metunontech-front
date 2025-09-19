@@ -13,7 +13,7 @@ export default function App() {
   const [availability, setAvailability] = useState<Availability>({});
   const [updatedAt, setUpdatedAt] = useState<string>("");
   const [semester, setSemester] = useState<string>("2025-26 Fall");
-  const [selectedCredits, setSelectedCredits] = useState<Set<string>>(new Set());
+  const [selectedCredit, setSelectedCredit] = useState<string>("");
 
   useEffect(() => {
     // Kursları S3'ten yükle
@@ -58,14 +58,9 @@ export default function App() {
     loadUpdated();
   }, []);
 
-  const toggleCreditFilter = (credit: string) => {
-    const newSelectedCredits = new Set(selectedCredits);
-    if (newSelectedCredits.has(credit)) {
-      newSelectedCredits.delete(credit);
-    } else {
-      newSelectedCredits.add(credit);
-    }
-    setSelectedCredits(newSelectedCredits);
+  const handleCreditFilter = (credit: string) => {
+    // Aynı krediye tıklanırsa filtreyi kaldır, farklı krediye tıklanırsa o krediye geç
+    setSelectedCredit(selectedCredit === credit ? "" : credit);
   };
 
   const filtered = useMemo(() => {
@@ -78,10 +73,10 @@ export default function App() {
     });
 
     // Kredi filtresi uygula
-    if (selectedCredits.size > 0) {
+    if (selectedCredit) {
       arr = arr.filter((course) => {
         const courseCredits = course.credits.toString();
-        return selectedCredits.has(courseCredits);
+        return courseCredits === selectedCredit;
       });
     }
 
@@ -110,7 +105,7 @@ export default function App() {
     });
 
     return arr;
-  }, [courses, search, hideUnscheduled, availability, selectedCredits]);
+  }, [courses, search, hideUnscheduled, availability, selectedCredit]);
 
   return (
     <>
@@ -171,7 +166,7 @@ export default function App() {
             onChange={() => {}}
           />
 
-          <div className="filter-buttons-row">
+          <div className="filter-options">
             <div className="hide-unscheduled">
               <button
                 id="hideUnscheduledBtn"
@@ -184,20 +179,22 @@ export default function App() {
               </button>
             </div>
 
-            <div className="credit-filters">
+            <div className="credit-filter-section">
               <h3>Filter with Credits</h3>
-              <div className="credit-buttons">
+              <div className="credit-filter-group">
                 <button
-                  className={`credit-filter-button ${selectedCredits.has("3") ? "active" : ""}`}
-                  onClick={() => toggleCreditFilter("3")}
+                  className={`credit-filter-btn ${selectedCredit === "3" ? "active" : ""}`}
+                  onClick={() => handleCreditFilter("3")}
                 >
-                  3 Credits
+                  <span className="credit-number">3</span>
+                  <span className="credit-text">Credits</span>
                 </button>
                 <button
-                  className={`credit-filter-button ${selectedCredits.has("4") ? "active" : ""}`}
-                  onClick={() => toggleCreditFilter("4")}
+                  className={`credit-filter-btn ${selectedCredit === "4" ? "active" : ""}`}
+                  onClick={() => handleCreditFilter("4")}
                 >
-                  4 Credits
+                  <span className="credit-number">4</span>
+                  <span className="credit-text">Credits</span>
                 </button>
               </div>
             </div>
