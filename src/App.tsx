@@ -3,7 +3,7 @@ import ThemeSwitcher from "./components/ThemeSwitcher";
 import DayTimeSelector from "./components/DayTimeSelector";
 import CourseCard from "./components/CourseCard";
 import { hasUnscheduledSection, hasValidSchedule, isCourseCompatible, formatUpdated } from "./utils";
-import { COURSES_API_URL } from "./constants";
+import { COURSES_API_URL, LAST_UPDATED_API_URL } from "./constants";
 import type { Availability, Course } from "./types";
 
 export default function App() {
@@ -12,6 +12,8 @@ export default function App() {
   const [hideUnscheduled, setHideUnscheduled] = useState<boolean>(false);
   const [availability, setAvailability] = useState<Availability>({});
   const [updatedAt, setUpdatedAt] = useState<string>("");
+  const [semester, setSemester] = useState<string>("2025-26 Fall");
+
   useEffect(() => {
     // Kursları S3'ten yükle
     const loadCourses = async () => {
@@ -24,13 +26,25 @@ export default function App() {
       }
     };
 
-    // Son değiştirilme zamanını HEAD ile al
+    // Son değiştirilme zamanını ve dönem bilgisini lastUpdated.json'dan al
     const loadUpdated = async () => {
       try {
-        const res = await fetch(COURSES_API_URL, { method: "HEAD" });
-        const lm = res.headers.get("last-modified");
-        setUpdatedAt(formatUpdated(lm ? new Date(lm) : new Date()));
-      } catch {
+        const res = await fetch(LAST_UPDATED_API_URL);
+        const statusData = await res.json();
+        
+        // Dönem bilgisini al (t field'ı)
+        if (statusData.t) {
+          setSemester(statusData.t);
+        }
+        
+        // Güncelleme zamanını al (u field'ı)
+        if (statusData.u) {
+          setUpdatedAt(formatUpdated(new Date(statusData.u)));
+        } else {
+          setUpdatedAt(formatUpdated(new Date()));
+        }
+      } catch (e) {
+        console.error("Error loading lastUpdated from S3:", e);
         setUpdatedAt(formatUpdated(new Date()));
       }
     };
@@ -70,7 +84,7 @@ export default function App() {
         <header>
           <h1>METU Non-Technical Elective Course Catalog</h1>
           <p>
-            The courses below are <strong>2024-25 Summer</strong> semester non-technical elective
+            The courses below are <strong>{semester}</strong> semester non-technical elective
             courses that are currently open for <strong>ALL</strong> departments.
           </p>
           <p>Select all of your available time slots to see exact courses available for your schedule.</p>
@@ -80,13 +94,17 @@ export default function App() {
             In case of any bug, recommendation etc you can contact us via{" "}
             <strong>destek@metu-non.tech</strong>
           </p>
-        </header>
-
-        <div className="creators">
           <p>
-            Created by <span>hgunduzoglu</span> & <span>topcunht</span> & <span>AEV</span>
+            Please fill the form below with low-effort free electives you took or heard about. We will add them.{" "}
+            <a
+              href="https://docs.google.com/forms/d/e/1FAIpQLSeXbKNVfatPsnV0m2hDM4LKKgljJ6hlvgOO_B5HiHd0OeyT0Q/viewform?usp=send_form"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <strong>Form Link</strong>
+            </a>
           </p>
-        </div>
+        </header>
 
         {/* Search */}
         <div className="search-container">

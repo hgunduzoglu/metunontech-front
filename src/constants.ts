@@ -18,6 +18,7 @@ export const DAYS = [
     { index: 8, label: "16:40-17:30", start: "16:40", end: "17:30" },
   ] as const;
 
-  // API endpoint for course data
-  export const COURSES_API_URL = "https://s3.amazonaws.com/cdn.robotdegilim.xyz/nteAvailable.json";
+  // API endpoints
+  export const COURSES_API_URL = "https://robotd.s3.eu-central-1.amazonaws.com/nte-available.json";
+  export const LAST_UPDATED_API_URL = "https://robotd.s3.eu-central-1.amazonaws.com/lastUpdated.json";
   
