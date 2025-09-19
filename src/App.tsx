@@ -77,6 +77,19 @@ export default function App() {
       });
     }
 
+    // No timestamp olan dersleri en sona sırala
+    arr.sort((a, b) => {
+      const aHasNoTimestamp = hasUnscheduledSection(a);
+      const bHasNoTimestamp = hasUnscheduledSection(b);
+      
+      // Eğer biri no timestamp diğeri değilse, no timestamp olanı sona at
+      if (aHasNoTimestamp && !bHasNoTimestamp) return 1;
+      if (!aHasNoTimestamp && bHasNoTimestamp) return -1;
+      
+      // İkisi de aynı durumda ise alfabetik sırala
+      return a.code.departmental.localeCompare(b.code.departmental);
+    });
+
     return arr;
   }, [courses, search, hideUnscheduled, availability]);
 
