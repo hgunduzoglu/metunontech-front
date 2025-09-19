@@ -12,7 +12,6 @@ export default function App() {
   const [hideUnscheduled, setHideUnscheduled] = useState<boolean>(false);
   const [availability, setAvailability] = useState<Availability>({});
   const [updatedAt, setUpdatedAt] = useState<string>("");
-git a
   useEffect(() => {
     // Kursları S3'ten yükle
     const loadCourses = async () => {
