@@ -19,6 +19,6 @@ export const DAYS = [
   ] as const;
 
   // API endpoints
-  export const COURSES_API_URL = "https://s3.amazonaws.com/cdn.robotdegilim.xyz/nteavailable.json";
+  export const COURSES_API_URL = "https://s3.amazonaws.com/cdn.robotdegilim.xyz/nteAvailable.json";
   export const LAST_UPDATED_API_URL = "https://s3.amazonaws.com/cdn.robotdegilim.xyz/lastUpdated.json";
   
