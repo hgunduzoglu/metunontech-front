@@ -32,14 +32,18 @@ export default function App() {
         const res = await fetch(LAST_UPDATED_API_URL);
         const statusData = await res.json();
         
-        // Dönem bilgisini al (t field'ı)
+        // Dönem bilgisini al (t field'ı) ve 20251: gibi prefix'i temizle
         if (statusData.t) {
-          setSemester(statusData.t);
+          let semesterText = statusData.t;
+          // 20251: gibi prefix'i kaldır
+          semesterText = semesterText.replace(/^\d+:\s*/, '');
+          setSemester(semesterText);
         }
         
-        // Güncelleme zamanını al (u field'ı)
+        // Güncelleme zamanını al (u field'ı) - string olarak geliyorsa parse et
         if (statusData.u) {
-          setUpdatedAt(formatUpdated(new Date(statusData.u)));
+          const updateTime = typeof statusData.u === 'string' ? statusData.u : new Date(statusData.u).toISOString();
+          setUpdatedAt(updateTime);
         } else {
           setUpdatedAt(formatUpdated(new Date()));
         }
@@ -94,16 +98,17 @@ export default function App() {
             In case of any bug, recommendation etc you can contact us via{" "}
             <strong>destek@metu-non.tech</strong>
           </p>
-          <p>
-            Please fill the form below with low-effort free electives you took or heard about. We will add them.{" "}
+          <p>Please fill the form below with low-effort free electives you took or heard about. We will add them.</p>
+          <div className="form-button-container">
             <a
               href="https://docs.google.com/forms/d/e/1FAIpQLSeXbKNVfatPsnV0m2hDM4LKKgljJ6hlvgOO_B5HiHd0OeyT0Q/viewform?usp=send_form"
               target="_blank"
               rel="noreferrer"
+              className="form-button"
             >
-              <strong>Form Link</strong>
+              Free Elective Form
             </a>
-          </p>
+          </div>
         </header>
 
         {/* Search */}
