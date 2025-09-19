@@ -197,32 +197,21 @@
   .credit-filter-section h3{
     margin:0 0 16px 0; font-size:1.1rem; font-weight:600; color:var(--text-primary);
   }
-  .credit-filter-group{
-    display:flex; gap:12px; align-items:center;
+  .credit-toggle-container{
+    display:inline-flex; background:var(--card-bg); border:2px solid var(--border);
+    border-radius:12px; padding:4px; box-shadow:0 2px 8px rgba(0,0,0,.06);
   }
-  .credit-filter-btn{
-    display:flex; flex-direction:column; align-items:center; justify-content:center;
-    width:80px; height:80px; border:2px solid var(--border); background:var(--card-bg);
-    cursor:pointer; border-radius:16px; transition:.3s; position:relative; overflow:hidden;
-    box-shadow:0 2px 8px rgba(0,0,0,.06);
+  .credit-toggle-option{
+    padding:10px 18px; border:none; background:transparent; cursor:pointer;
+    border-radius:8px; font-size:.875rem; font-weight:500; color:var(--text-secondary);
+    transition:.2s; position:relative; white-space:nowrap;
   }
-  .credit-filter-btn:hover{
-    background:var(--hover-bg); border-color:var(--primary-light); transform:translateY(-2px);
-    box-shadow:0 4px 12px rgba(0,0,0,.1);
+  .credit-toggle-option:hover{
+    color:var(--text-primary); background:var(--hover-bg);
   }
-  .credit-filter-btn.active{
-    background:var(--primary); color:#fff; border-color:var(--primary);
-    box-shadow:0 4px 12px rgba(226,24,54,.25);
-  }
-  .credit-filter-btn .credit-number{
-    font-size:1.5rem; font-weight:700; line-height:1; margin-bottom:4px;
-  }
-  .credit-filter-btn .credit-text{
-    font-size:.75rem; font-weight:500; text-transform:uppercase; letter-spacing:.5px;
-    opacity:.8;
-  }
-  .credit-filter-btn.active .credit-text{
-    opacity:1;
+  .credit-toggle-option.active{
+    background:var(--primary); color:#fff; font-weight:600;
+    box-shadow:0 2px 4px rgba(226,24,54,.2);
   }
 
   @media (max-width: 768px) {
@@ -232,8 +221,11 @@
     .credit-filter-section{
       text-align:center;
     }
-    .credit-filter-group{
-      justify-content:center;
+    .credit-toggle-container{
+      width:100%; justify-content:stretch;
+    }
+    .credit-toggle-option{
+      flex:1; text-align:center;
     }
   }
   

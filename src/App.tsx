@@ -59,8 +59,8 @@ export default function App() {
   }, []);
 
   const handleCreditFilter = (credit: string) => {
-    // Aynı krediye tıklanırsa filtreyi kaldır, farklı krediye tıklanırsa o krediye geç
-    setSelectedCredit(selectedCredit === credit ? "" : credit);
+    // Direkt seçilen krediye geç
+    setSelectedCredit(credit);
   };
 
   const filtered = useMemo(() => {
@@ -181,20 +181,24 @@ export default function App() {
 
             <div className="credit-filter-section">
               <h3>Filter with Credits</h3>
-              <div className="credit-filter-group">
+              <div className="credit-toggle-container">
                 <button
-                  className={`credit-filter-btn ${selectedCredit === "3" ? "active" : ""}`}
-                  onClick={() => handleCreditFilter("3")}
+                  className={`credit-toggle-option ${selectedCredit === "" ? "active" : ""}`}
+                  onClick={() => handleCreditFilter("")}
                 >
-                  <span className="credit-number">3</span>
-                  <span className="credit-text">Credits</span>
+                  All
                 </button>
                 <button
-                  className={`credit-filter-btn ${selectedCredit === "4" ? "active" : ""}`}
+                  className={`credit-toggle-option ${selectedCredit === "3" ? "active" : ""}`}
+                  onClick={() => handleCreditFilter("3")}
+                >
+                  3 Credits
+                </button>
+                <button
+                  className={`credit-toggle-option ${selectedCredit === "4" ? "active" : ""}`}
                   onClick={() => handleCreditFilter("4")}
                 >
-                  <span className="credit-number">4</span>
-                  <span className="credit-text">Credits</span>
+                  4 Credits
                 </button>
               </div>
             </div>
