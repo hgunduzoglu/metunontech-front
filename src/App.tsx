@@ -13,6 +13,7 @@ export default function App() {
   const [availability, setAvailability] = useState<Availability>({});
   const [updatedAt, setUpdatedAt] = useState<string>("");
   const [semester, setSemester] = useState<string>("2025-26 Fall");
+  const [selectedCredits, setSelectedCredits] = useState<Set<string>>(new Set());
 
   useEffect(() => {
     // Kursları S3'ten yükle
@@ -57,6 +58,16 @@ export default function App() {
     loadUpdated();
   }, []);
 
+  const toggleCreditFilter = (credit: string) => {
+    const newSelectedCredits = new Set(selectedCredits);
+    if (newSelectedCredits.has(credit)) {
+      newSelectedCredits.delete(credit);
+    } else {
+      newSelectedCredits.add(credit);
+    }
+    setSelectedCredits(newSelectedCredits);
+  };
+
   const filtered = useMemo(() => {
     const term = search.toLowerCase();
 
@@ -65,6 +76,14 @@ export default function App() {
       const num = (course.code.numeric || "").toString().toLowerCase();
       return dep.includes(term) || num.includes(term) || course.name.toLowerCase().includes(term);
     });
+
+    // Kredi filtresi uygula
+    if (selectedCredits.size > 0) {
+      arr = arr.filter((course) => {
+        const courseCredits = course.credits.toString();
+        return selectedCredits.has(courseCredits);
+      });
+    }
 
     if (hideUnscheduled) {
       arr = arr
@@ -91,7 +110,7 @@ export default function App() {
     });
 
     return arr;
-  }, [courses, search, hideUnscheduled, availability]);
+  }, [courses, search, hideUnscheduled, availability, selectedCredits]);
 
   return (
     <>
@@ -152,16 +171,36 @@ export default function App() {
             onChange={() => {}}
           />
 
-          <div className="hide-unscheduled">
-            <button
-              id="hideUnscheduledBtn"
-              className={`hide-unscheduled-button ${hideUnscheduled ? "active" : ""}`}
-              title="Toggle visibility of unscheduled courses"
-              onClick={() => setHideUnscheduled((v) => !v)}
-            >
-              <i className={`fas ${hideUnscheduled ? "fa-eye" : "fa-eye-slash"}`} />
-              <span>{hideUnscheduled ? "Show Unscheduled Courses" : "Hide Unscheduled Courses"}</span>
-            </button>
+          <div className="filter-buttons-row">
+            <div className="hide-unscheduled">
+              <button
+                id="hideUnscheduledBtn"
+                className={`hide-unscheduled-button ${hideUnscheduled ? "active" : ""}`}
+                title="Toggle visibility of unscheduled courses"
+                onClick={() => setHideUnscheduled((v) => !v)}
+              >
+                <i className={`fas ${hideUnscheduled ? "fa-eye" : "fa-eye-slash"}`} />
+                <span>{hideUnscheduled ? "Show Unscheduled Courses" : "Hide Unscheduled Courses"}</span>
+              </button>
+            </div>
+
+            <div className="credit-filters">
+              <h3>Filter with Credits</h3>
+              <div className="credit-buttons">
+                <button
+                  className={`credit-filter-button ${selectedCredits.has("3") ? "active" : ""}`}
+                  onClick={() => toggleCreditFilter("3")}
+                >
+                  3 Credits
+                </button>
+                <button
+                  className={`credit-filter-button ${selectedCredits.has("4") ? "active" : ""}`}
+                  onClick={() => toggleCreditFilter("4")}
+                >
+                  4 Credits
+                </button>
+              </div>
+            </div>
           </div>
         </div>
 

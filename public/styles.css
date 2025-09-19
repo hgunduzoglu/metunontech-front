@@ -175,20 +175,43 @@
   .dark-theme .instructors:hover{ border-color:var(--primary); }
   
   /* -------------------- Hide unscheduled button -------------------- */
-  .hide-unscheduled{ margin-top:1.5rem; display:flex; justify-content:center; }
-  .hide-unscheduled-button{
-    display:inline-flex; align-items:center; justify-content:center; gap:10px;
-    padding:.75rem 1.5rem; background:var(--card-bg); border:2px solid var(--border); border-radius:8px;
-    font-size:.875rem; font-weight:600; color:var(--text-primary); cursor:pointer; transition:.2s; min-width:200px;
-    box-shadow:0 1px 2px rgba(0,0,0,.05);
+  .hide-unscheduled{
+    display:flex; align-items:center; gap:12px; margin-top:20px;
   }
-  .hide-unscheduled-button:hover{ background:var(--hover-bg); border-color:var(--primary-light); transform:translateY(-1px); box-shadow:0 4px 6px rgba(0,0,0,.05); }
-  .hide-unscheduled-button:active{ transform:translateY(0); box-shadow:0 1px 2px rgba(0,0,0,.05); }
+  .hide-unscheduled-button{
+    display:flex; align-items:center; gap:8px; padding:12px 18px; border:2px solid var(--border);
+    background:var(--card-bg); cursor:pointer; border-radius:10px; font-size:.875rem; font-weight:500;
+    transition:.2s; color:var(--text-primary);
+  }
+  .hide-unscheduled-button:hover{ background:var(--hover-bg); border-color:var(--primary-light); }
   .hide-unscheduled-button.active{ background:var(--primary); color:#fff; border-color:var(--primary); }
-  .hide-unscheduled-button i{ font-size:1rem; transition:transform .2s; }
-  .hide-unscheduled-button:hover i{ transform:scale(1.1); }
-  .hide-unscheduled-button span{ font-weight:500; user-select:none; }
+  .hide-unscheduled-button i{ font-size:1rem; }
+
+  /* Filter Buttons Row */
+  .filter-buttons-row{
+    display:flex; justify-content:space-between; align-items:flex-start; gap:2rem; margin-top:20px;
+    flex-wrap:wrap;
+  }
   
+  /* Credit Filters */
+  .credit-filters h3{
+    margin:0 0 12px 0; font-size:1rem; font-weight:600; color:var(--text-primary);
+  }
+  .credit-buttons{
+    display:flex; gap:8px; flex-wrap:wrap;
+  }
+  .credit-filter-button{
+    padding:10px 16px; border:2px solid var(--border); background:var(--card-bg);
+    cursor:pointer; border-radius:8px; font-size:.875rem; font-weight:500;
+    transition:.2s; color:var(--text-primary);
+  }
+  .credit-filter-button:hover{
+    background:var(--hover-bg); border-color:var(--primary-light);
+  }
+  .credit-filter-button.active{
+    background:var(--primary); color:#fff; border-color:var(--primary);
+  }
+
   /* -------------------- Responsive -------------------- */
   @media (max-width:1400px){
     .courses-grid{ grid-template-columns:repeat(auto-fill,minmax(340px,1fr)); gap:1.5rem; }
@@ -227,6 +250,11 @@
     .course-code-numeric{ font-size:.8125rem; padding:.25rem .5rem; }
     .slots-container{ grid-template-columns:repeat(auto-fill,minmax(80px,1fr)); }
     .slot-button{ height:36px; font-size:.6875rem; }
+  }
+  @media (max-width: 768px) {
+    .filter-buttons-row{
+      flex-direction:column; gap:1.5rem;
+    }
   }
   
   /* -------------------- Print -------------------- */
