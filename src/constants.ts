@@ -19,5 +19,5 @@ export const DAYS = [
   ] as const;
 
   // API endpoint for course data
-  export const COURSES_API_URL = "https://robotd.s3.eu-central-1.amazonaws.com/nte-available.json";
+  export const COURSES_API_URL = "https://s3.amazonaws.com/cdn.robotdegilim.xyz/nteAvailable.json";
   
