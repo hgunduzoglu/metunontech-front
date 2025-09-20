@@ -149,6 +149,31 @@ export default function App() {
           />
         </div>
 
+        {/* Credit Filter */}
+        <div className="credit-filter-main">
+          <h3>Filter by Credits</h3>
+          <div className="credit-toggle-container">
+            <button
+              className={`credit-toggle-option ${selectedCredit === "" ? "active" : ""}`}
+              onClick={() => handleCreditFilter("")}
+            >
+              All Courses
+            </button>
+            <button
+              className={`credit-toggle-option ${selectedCredit === "3" ? "active" : ""}`}
+              onClick={() => handleCreditFilter("3")}
+            >
+              3 Credits
+            </button>
+            <button
+              className={`credit-toggle-option ${selectedCredit === "4" ? "active" : ""}`}
+              onClick={() => handleCreditFilter("4")}
+            >
+              4 Credits
+            </button>
+          </div>
+        </div>
+
         {/* Filters */}
         <div className="filter-container">
           <h2>Choose Your Availability</h2>
@@ -166,42 +191,16 @@ export default function App() {
             onChange={() => {}}
           />
 
-          <div className="filter-options">
-            <div className="hide-unscheduled">
-              <button
-                id="hideUnscheduledBtn"
-                className={`hide-unscheduled-button ${hideUnscheduled ? "active" : ""}`}
-                title="Toggle visibility of unscheduled courses"
-                onClick={() => setHideUnscheduled((v) => !v)}
-              >
-                <i className={`fas ${hideUnscheduled ? "fa-eye" : "fa-eye-slash"}`} />
-                <span>{hideUnscheduled ? "Show Unscheduled Courses" : "Hide Unscheduled Courses"}</span>
-              </button>
-            </div>
-
-            <div className="credit-filter-section">
-              <h3>Filter with Credits</h3>
-              <div className="credit-toggle-container">
-                <button
-                  className={`credit-toggle-option ${selectedCredit === "" ? "active" : ""}`}
-                  onClick={() => handleCreditFilter("")}
-                >
-                  All
-                </button>
-                <button
-                  className={`credit-toggle-option ${selectedCredit === "3" ? "active" : ""}`}
-                  onClick={() => handleCreditFilter("3")}
-                >
-                  3 Credits
-                </button>
-                <button
-                  className={`credit-toggle-option ${selectedCredit === "4" ? "active" : ""}`}
-                  onClick={() => handleCreditFilter("4")}
-                >
-                  4 Credits
-                </button>
-              </div>
-            </div>
+          <div className="hide-unscheduled">
+            <button
+              id="hideUnscheduledBtn"
+              className={`hide-unscheduled-button ${hideUnscheduled ? "active" : ""}`}
+              title="Toggle visibility of unscheduled courses"
+              onClick={() => setHideUnscheduled((v) => !v)}
+            >
+              <i className={`fas ${hideUnscheduled ? "fa-eye" : "fa-eye-slash"}`} />
+              <span>{hideUnscheduled ? "Show Unscheduled Courses" : "Hide Unscheduled Courses"}</span>
+            </button>
           </div>
         </div>
 
