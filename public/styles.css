@@ -148,11 +148,37 @@
   .schedule{ display:flex; flex-direction:column; gap:12px; }
   
   .section-block{
-    background:var(--hover-bg); padding:1.5rem; border-radius:16px; border:1px solid var(--border);
-    display:flex; flex-direction:column; gap:12px;
+    background:var(--hover-bg); border-radius:16px; border:1px solid var(--border);
+    overflow:hidden; transition:.2s;
   }
-  .section-block h3{
-    color:var(--primary); font-size:1.25rem; font-weight:600; padding-bottom:.5rem; border-bottom:1px solid var(--border);
+  .section-block.open{
+    box-shadow:0 8px 20px rgba(0,0,0,.04);
+  }
+  .section-toggle{
+    width:100%; border:none; background:transparent; cursor:pointer;
+    display:flex; align-items:center; justify-content:space-between; gap:12px;
+    padding:1rem 1.1rem; color:var(--text-primary); text-align:left; transition:.2s;
+  }
+  .section-toggle:hover{
+    background:rgba(226,24,54,.06);
+  }
+  .section-title{
+    color:var(--primary); font-size:1.25rem; font-weight:600;
+  }
+  .section-toggle-right{
+    display:flex; align-items:center; gap:.65rem; margin-left:auto;
+  }
+  .section-meta{
+    font-size:.78rem; font-weight:500; color:var(--text-secondary);
+    border:1px solid var(--border); background:var(--card-bg);
+    border-radius:9999px; padding:.2rem .6rem; white-space:nowrap;
+  }
+  .section-toggle-icon{
+    color:var(--primary); font-size:.9rem;
+  }
+  .section-content{
+    display:flex; flex-direction:column; gap:12px;
+    border-top:1px solid var(--border); padding:.9rem 1rem 1rem;
   }
   
   /* time row: day | time | room */
@@ -179,7 +205,9 @@
   
   /* dark tweaks */
   .dark-theme .section-block{ border-color:var(--dark-border); }
-  .dark-theme .section-block h3{ border-bottom-color:var(--dark-border); }
+  .dark-theme .section-toggle:hover{ background:rgba(226,24,54,.14); }
+  .dark-theme .section-meta{ background:var(--dark-card-bg); border-color:var(--dark-border); }
+  .dark-theme .section-content{ border-top-color:var(--dark-border); }
   .dark-theme .schedule-item{ border-color:var(--dark-border); }
   .dark-theme .instructors{ background:var(--dark-card-bg); border-color:var(--dark-border); }
   .dark-theme .instructors:hover{ border-color:var(--primary); }
@@ -231,7 +259,8 @@
   @media (max-width:992px){
     .courses-grid{ grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:1.25rem; }
     .course-card{ padding:1.5rem; }
-    .section-block{ padding:1rem; }
+    .section-toggle{ padding:.9rem 1rem; }
+    .section-content{ padding:.8rem .9rem .9rem; }
   }
   @media (max-width:768px){
     body{ padding:1rem; }
