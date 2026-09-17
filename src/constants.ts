@@ -18,7 +18,24 @@ export const DAYS = [
     { index: 8, label: "16:40-17:30", start: "16:40", end: "17:30" },
   ] as const;
 
-  // API endpoints
-  export const COURSES_API_URL = "https://s3.amazonaws.com/cdn.robotdegilim.xyz/nteAvailable.json";
-  export const LAST_UPDATED_API_URL = "https://s3.amazonaws.com/cdn.robotdegilim.xyz/lastUpdated.json";
+  // API endpoints. robotdegilim.xyz used to publish a ready-made nteAvailable.json;
+  // it now uploads the raw scrape instead, so the catalogue and the degree
+  // programmes are fetched separately and the NTE list is worked out here.
+  const S3_BASE_URL = "https://s3.amazonaws.com/cdn.robotdegilim.xyz";
+  export const LATEST_POINTER_URL = `${S3_BASE_URL}/data/scrape_courses/latest.json`;
+  export const coursesUrl = (filename: string) =>
+    `${S3_BASE_URL}/data/scrape_courses/${filename}`;
+  export const PROGRAMS_URL = `${S3_BASE_URL}/data/scrape_programs/programs.json`;
+
+  // Which courses belong on this site. Only Ankara's engineering departments
+  // count: the faculty name is how programs.json separates them from the
+  // Northern Cyprus programmes, which run a different course list altogether.
+  export const ENGINEERING_FACULTY = "Faculty of Engineering";
+  export const NONTECHNICAL_ELECTIVE = "NONTECHNICAL ELECTIVE";
+
+  // A course counts as a shared non-technical elective when at most this many
+  // engineering departments leave it out. Departments disagree at the edges --
+  // some ECON courses are not open to IE but still count as an NTE for ME --
+  // and demanding unanimity drops those for everyone.
+  export const MAX_DEPARTMENTS_MISSING = 3;
   

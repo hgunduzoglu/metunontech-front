@@ -2,8 +2,8 @@ import { useEffect, useMemo, useState } from "react";
 import ThemeSwitcher from "./components/ThemeSwitcher";
 import DayTimeSelector from "./components/DayTimeSelector";
 import CourseCard from "./components/CourseCard";
-import { hasUnscheduledSection, hasValidSchedule, isCourseCompatible, formatUpdated } from "./utils";
-import { COURSES_API_URL, LAST_UPDATED_API_URL } from "./constants";
+import { hasUnscheduledSection, hasValidSchedule, isCourseCompatible } from "./utils";
+import { loadCatalog } from "./api";
 import type { Availability, Course } from "./types";
 
 export default function App() {
@@ -12,51 +12,33 @@ export default function App() {
   const [hideUnscheduled, setHideUnscheduled] = useState<boolean>(false);
   const [availability, setAvailability] = useState<Availability>({});
   const [updatedAt, setUpdatedAt] = useState<string>("");
-  const [semester, setSemester] = useState<string>("2025-26 Fall");
+  const [semester, setSemester] = useState<string>("");
   const [selectedCredit, setSelectedCredit] = useState<string>("");
+  const [status, setStatus] = useState<"loading" | "ready" | "failed">("loading");
+  const [attempt, setAttempt] = useState<number>(0);
 
   useEffect(() => {
-    // Kursları S3'ten yükle
-    const loadCourses = async () => {
-      try {
-        const res = await fetch(COURSES_API_URL);
-        const data: Course[] = await res.json();
-        setCourses(data);
-      } catch (e) {
-        console.error("Error loading courses from S3:", e);
-      }
-    };
+    let current = true;
 
-    // Son değiştirilme zamanını ve dönem bilgisini lastUpdated.json'dan al
-    const loadUpdated = async () => {
-      try {
-        const res = await fetch(LAST_UPDATED_API_URL);
-        const statusData = await res.json();
-        
-        // Dönem bilgisini al (t field'ı) ve 20251: gibi prefix'i temizle
-        if (statusData.t) {
-          let semesterText = statusData.t;
-          // 20251: gibi prefix'i kaldır
-          semesterText = semesterText.replace(/^\d+:\s*/, '');
-          setSemester(semesterText);
-        }
-        
-        // Güncelleme zamanını al (u field'ı) - string olarak geliyorsa parse et
-        if (statusData.u) {
-          const updateTime = typeof statusData.u === 'string' ? statusData.u : new Date(statusData.u).toISOString();
-          setUpdatedAt(updateTime);
-        } else {
-          setUpdatedAt(formatUpdated(new Date()));
-        }
-      } catch (e) {
-        console.error("Error loading lastUpdated from S3:", e);
-        setUpdatedAt(formatUpdated(new Date()));
-      }
-    };
+    setStatus("loading");
+    loadCatalog()
+      .then((catalog) => {
+        if (!current) return;
+        setCourses(catalog.courses);
+        setSemester(catalog.semester);
+        setUpdatedAt(catalog.updatedAt);
+        setStatus("ready");
+      })
+      .catch((error) => {
+        if (!current) return;
+        console.error("Error loading the catalog from S3:", error);
+        setStatus("failed");
+      });
 
-    loadCourses();
-    loadUpdated();
-  }, []);
+    return () => {
+      current = false;
+    };
+  }, [attempt]);
 
   const handleCreditFilter = (credit: string) => {
     // Direkt seçilen krediye geç
@@ -115,8 +97,9 @@ export default function App() {
         <header>
           <h1>METU Non-Technical Elective Course Catalog</h1>
           <p>
-            The courses below are <strong>{semester}</strong> semester non-technical elective
-            courses that are currently open for <strong>ALL</strong> departments.
+            The courses below are the{semester ? <> <strong>{semester}</strong> semester</> : null}{" "}
+            non-technical elective courses that are currently open to{" "}
+            <strong>almost every</strong> engineering department.
           </p>
           <p>Select all of your available time slots to see exact courses available for your schedule.</p>
           <p>You can also search for courses by code or name.</p>
@@ -204,12 +187,29 @@ export default function App() {
           </div>
         </div>
 
+        {status === "loading" && (
+          <div className="load-status">
+            <p>Loading this semester's courses...</p>
+          </div>
+        )}
+
+        {status === "failed" && (
+          <div className="load-status load-status-error">
+            <p>The course data could not be loaded.</p>
+            <button type="button" onClick={() => setAttempt((n) => n + 1)}>
+              Try again
+            </button>
+          </div>
+        )}
+
         {/* Total */}
-        <div className="total-courses">
-          <p>
-            Total Courses: <span id="courseCount">{filtered.length}</span>
-          </p>
-        </div>
+        {status === "ready" && (
+          <div className="total-courses">
+            <p>
+              Total Courses: <span id="courseCount">{filtered.length}</span>
+            </p>
+          </div>
+        )}
 
         {/* Reminders */}
         <div className="reminder">
