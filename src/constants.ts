@@ -21,7 +21,7 @@ export const DAYS = [
   // API endpoints. robotdegilim.xyz used to publish a ready-made nteAvailable.json;
   // it now uploads the raw scrape instead, so the catalogue and the degree
   // programmes are fetched separately and the NTE list is worked out here.
-  const S3_BASE_URL = "https://s3.amazonaws.com/cdn.robotdegilim.xyz";
+  const S3_BASE_URL = "https://d33f3hl6053o48.cloudfront.net";
   export const LATEST_POINTER_URL = `${S3_BASE_URL}/data/scrape_courses/latest.json`;
   export const coursesUrl = (filename: string) =>
     `${S3_BASE_URL}/data/scrape_courses/${filename}`;
